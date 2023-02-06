@@ -1,0 +1,831 @@
+,#,Player,Pos,Club,Birth Place,Birth Date,Age,MP,Min,Gls
+0,8.0,Marcos Acuña,"DF,FW",1.es Sevilla,"Zapala, Argentina",1991-10-28,31-023,6.0,373.0,0.0
+1,16.0,Thiago Almada,MF,1.us Atlanta Utd,"Argentina, Argentina",2001-04-26,21-208,1.0,7.0,0.0
+2,9.0,Julián Álvarez,FW,1.eng Manchester City,"Argentina, Argentina",2000-01-31,22-293,7.0,464.0,4.0
+3,1.0,Franco Armani,GK,1.ar River Plate,"Casilda, Argentina",1986-10-16,36-035,0.0,,
+4,15.0,Ángel Correa,MF,1.es Atlético Madrid,"Rosario, Argentina",1995-03-09,27-256,1.0,5.0,0.0
+5,7.0,Rodrigo De Paul,MF,1.es Atlético Madrid,"Sarandí, Argentina",1994-05-24,28-180,7.0,599.0,0.0
+6,11.0,Ángel Di María,"MF,FW",1.it Juventus,"Rosario, Argentina",1988-02-14,34-279,5.0,288.0,1.0
+7,21.0,Paulo Dybala,FW,1.it Roma,"Laguna Larga, Argentina",1993-11-15,29-005,2.0,18.0,0.0
+8,24.0,Enzo Fernández,MF,1.pt Benfica,"Argentina, Argentina",2001-01-17,21-307,7.0,564.0,1.0
+9,2.0,Juan Foyth,DF,1.es Villarreal,"La Plata, Argentina",1998-01-12,24-312,1.0,5.0,0.0
+10,17.0,Papu Gómez,"MF,FW",1.es Sevilla,"Buenos Aires, Argentina",1988-02-15,34-278,2.0,107.0,0.0
+11,20.0,Alexis Mac Allister,MF,1.eng Brighton,"Santa Rosa, Argentina",1998-12-24,23-331,6.0,550.0,1.0
+12,23.0,Emiliano Martínez,GK,1.eng Aston Villa,"Mar del Plata, Argentina",1992-09-02,30-079,7.0,690.0,0.0
+13,22.0,Lautaro Martínez,FW,1.it Inter,"Bahía Blanca, Argentina",1997-08-22,25-090,6.0,241.0,0.0
+14,25.0,Lisandro Martínez,DF,1.eng Manchester Utd,"Gualeguay, Argentina",1998-01-18,24-306,5.0,303.0,0.0
+15,10.0,Lionel Messi,FW,1.fr Paris S-G,"Rosario, Argentina",1987-06-24,35-149,7.0,690.0,7.0
+16,26.0,Nahuel Molina,DF,1.es Atlético Madrid,"Embalse, Argentina",1998-04-06,24-228,7.0,567.0,1.0
+17,4.0,Gonzalo Montiel,"DF,MF",1.es Sevilla,"González Catán, Argentina",1997-01-01,25-323,4.0,118.0,0.0
+18,19.0,Nicolás Otamendi,DF,1.pt Benfica,"Buenos Aires, Argentina",1988-02-12,34-281,7.0,690.0,0.0
+19,14.0,Exequiel Palacios,"MF,DF",1.de Leverkusen,"Famaillá, Argentina",1998-10-05,24-046,3.0,50.0,0.0
+20,5.0,Leandro Paredes,MF,1.it Juventus,"San Justo, Argentina",1994-06-29,28-144,5.0,225.0,0.0
+21,6.0,Germán Pezzella,DF,1.es Betis,"Bahía Blanca, Argentina",1991-06-27,31-146,3.0,60.0,0.0
+22,18.0,Guido Rodríguez,MF,1.es Betis,"Sáenz Peña, Argentina",1994-04-12,28-222,1.0,56.0,0.0
+23,13.0,Cristian Romero,DF,1.eng Tottenham,"Córdoba, Argentina",1998-04-27,24-207,7.0,547.0,0.0
+24,12.0,Gerónimo Rulli,GK,1.es Villarreal,"La Plata, Argentina",1992-05-20,30-184,0.0,,
+25,3.0,Nicolás Tagliafico,DF,1.fr Lyon,"Buenos Aires, Argentina",1992-08-31,30-081,6.0,373.0,0.0
+0,23.0,Alphonse Areola,GK,1.eng West Ham,"Paris, France",1993-02-27,29-266,0.0,,
+1,25.0,Eduardo Camavinga,DF,1.es Real Madrid,"Cabinda, Angola",2002-11-10,20-010,2.0,140.0,0.0
+2,20.0,Kingsley Coman,"FW,MF",1.de Bayern Munich,"Paris, France",1996-06-13,26-160,6.0,169.0,0.0
+3,11.0,Ousmane Dembélé,FW,1.es Barcelona,"Vernon, France",1997-05-15,25-189,7.0,433.0,0.0
+4,3.0,Axel Disasi,DF,1.fr Monaco,"Gonesse, France",1998-03-11,24-254,3.0,92.0,0.0
+5,13.0,Youssouf Fofana,MF,1.fr Monaco,"Paris, France",1999-01-10,23-314,6.0,227.0,0.0
+6,9.0,Olivier Giroud,FW,1.it Milan,"Chambéry, France",1986-09-30,36-051,6.0,419.0,4.0
+7,7.0,Antoine Griezmann,MF,1.es Atlético Madrid,"Mâcon, France",1991-03-21,31-244,7.0,537.0,0.0
+8,6.0,Mattéo Guendouzi,"FW,MF",1.fr Marseille,"Poissy, France",1999-04-14,23-220,1.0,78.0,0.0
+9,21.0,Lucas Hernández,DF,1.de Bayern Munich,"Marseille, France",1996-02-14,26-279,1.0,12.0,0.0
+10,22.0,Theo Hernández,DF,1.it Milan,"Marseille, France",1997-10-06,25-045,6.0,508.0,1.0
+11,12.0,Randal Kolo Muani,FW,1.de Eint Frankfurt,"Bondy, France",1998-12-05,23-350,3.0,182.0,1.0
+12,24.0,Ibrahima Konaté,DF,1.eng Liverpool,"Paris, France",1999-05-25,23-179,5.0,294.0,0.0
+13,5.0,Jules Koundé,DF,1.es Barcelona,"Paris, France",1998-11-12,24-008,6.0,480.0,0.0
+14,1.0,Hugo Lloris,GK,1.eng Tottenham,"Nice, France",1986-12-26,35-329,6.0,570.0,0.0
+15,16.0,Steve Mandanda,GK,1.fr Rennes,"Kinshasa, Congo DR",1985-03-28,37-237,1.0,90.0,0.0
+16,10.0,Kylian Mbappé,FW,1.fr Paris S-G,"Paris 19 Buttes-Chaumont, France",1998-12-20,23-335,7.0,598.0,8.0
+17,2.0,Benjamin Pavard,DF,1.de Bayern Munich,"Maubeuge, France",1996-03-28,26-237,1.0,88.0,0.0
+18,14.0,Adrien Rabiot,MF,1.it Juventus,"Saint-Maurice, France",1995-04-03,27-231,6.0,483.0,1.0
+19,17.0,William Saliba,DF,1.eng Arsenal,"Bondy, France",2001-03-24,21-241,1.0,28.0,0.0
+20,8.0,Aurélien Tchouaméni,MF,1.es Real Madrid,"Rouen, France",2000-01-27,22-297,7.0,621.0,1.0
+21,26.0,Marcus Thuram,"FW,MF",1.de M'Gladbach,"Provincia di Parma, Italy",1997-08-06,25-106,5.0,151.0,0.0
+22,18.0,Dayot Upamecano,DF,1.de Bayern Munich,"Évreux, France",1998-10-27,24-024,5.0,480.0,0.0
+23,4.0,Raphaël Varane,DF,1.eng Manchester Utd,"Lille, France",1993-04-25,29-209,6.0,518.0,0.0
+24,15.0,Jordan Veretout,MF,1.fr Marseille,"Ancenis, France",1993-03-01,29-264,1.0,62.0,0.0
+0,3.0,Borna Barišić,DF,1.sct Rangers,"Grad Osijek, Croatia",1992-11-10,30-010,1.0,120.0,0.0
+1,11.0,Marcelo Brozović,MF,1.it Inter,"Zagreb, Croatia",1992-11-16,30-004,6.0,552.0,0.0
+2,17.0,Ante Budimir,FW,1.es Osasuna,"Zenica, Bosnia and Herzegovina",1991-07-22,31-121,2.0,55.0,0.0
+3,5.0,Martin Erlic,DF,1.it Sassuolo,"Zadar, Croatia",1998-01-24,24-300,0.0,,
+4,12.0,Ivo Grbić,GK,1.es Atlético Madrid,"Grad Split, Croatia",1996-01-18,26-306,0.0,,
+5,20.0,Joško Gvardiol,DF,1.de RB Leipzig,"Zagreb, Croatia",2002-01-23,20-301,7.0,690.0,1.0
+6,23.0,Ivica Ivušić,GK,1.hr Osijek,"Grad Rijeka, Croatia",1995-02-01,27-292,0.0,,
+7,26.0,Kristijan Jakić,FW,1.de Eint Frankfurt,"Grad Split, Croatia",1997-05-14,25-190,1.0,1.0,0.0
+8,22.0,Josip Juranović,DF,1.sct Celtic,"Zagreb, Croatia",1995-08-16,27-096,6.0,600.0,0.0
+9,8.0,Mateo Kovačić,MF,1.eng Chelsea,"Linz, Austria",1994-05-06,28-198,7.0,635.0,0.0
+10,9.0,Andrej Kramarić,"FW,MF",1.de Hoffenheim,"Zagreb, Croatia",1991-06-19,31-154,7.0,474.0,2.0
+11,14.0,Marko Livaja,FW,1.hr Hajduk Split,"Grad Split, Croatia",1993-08-26,29-086,6.0,241.0,1.0
+12,1.0,Dominik Livaković,GK,1.hr Dinamo Zagreb,"Zadar, Croatia",1995-01-09,27-315,7.0,690.0,0.0
+13,6.0,Dejan Lovren,DF,1.ru Zenit,"Zenica, Bosnia and Herzegovina",1989-07-05,33-138,6.0,600.0,0.0
+14,7.0,Lovro Majer,"MF,FW",1.fr Rennes,"Zagreb, Croatia",1998-01-17,24-307,7.0,130.0,1.0
+15,10.0,Luka Modrić,MF,1.es Real Madrid,"Zadar, Croatia",1985-09-09,37-072,7.0,653.0,0.0
+16,18.0,Mislav Oršić,FW,1.hr Dinamo Zagreb,"Zagreb, Croatia",1992-12-29,29-326,6.0,162.0,1.0
+17,15.0,Mario Pašalić,"FW,MF",1.it Atalanta,"Mainz, Germany",1995-02-09,27-284,7.0,271.0,0.0
+18,4.0,Ivan Perišić,"FW,DF",1.eng Tottenham,"Grad Split, Croatia",1989-02-02,33-291,7.0,669.0,1.0
+19,16.0,Bruno Petković,FW,1.hr Dinamo Zagreb,"Metković, Croatia",1994-09-16,28-065,6.0,234.0,1.0
+20,19.0,Borna Sosa,DF,1.de Stuttgart,"Zagreb, Croatia",1998-01-21,24-303,5.0,424.0,0.0
+21,2.0,Josip Stanišić,DF,1.de Bayern Munich,"München, Germany",2000-04-02,22-232,1.0,90.0,0.0
+22,25.0,Luka Sučić,MF,1.at RB Salzburg,"Linz, Austria",2002-09-08,20-073,0.0,,
+23,24.0,Josip Šutalo,DF,1.hr Dinamo Zagreb,"Čapljina, Bosnia and Herzegovina",2000-02-28,22-265,1.0,90.0,0.0
+24,21.0,Domagoj Vida,"DF,MF",1.gr AEK Athens,"Grad Osijek, Croatia",1989-04-29,33-205,0.0,,
+25,13.0,Nikola Vlašić,"FW,MF",1.it Torino,"Grad Split, Croatia",1997-10-04,25-047,6.0,209.0,0.0
+0,14.0,Zakaria Aboukhlal,"FW,MF",1.fr Toulouse,"Rotterdam, Netherlands",2000-02-18,22-275,4.0,79.0,1.0
+1,5.0,Nayef Aguerd,DF,1.eng West Ham,"Kenitra, Morocco",1996-03-30,26-235,4.0,353.0,0.0
+2,15.0,Selim Amallah,MF,1.be Standard Liège,"Hautrage, Belgium",1996-11-15,26-005,7.0,409.0,0.0
+3,4.0,Sofyan Amrabat,MF,1.it Fiorentina,"Gemeente Huizen, Netherlands",1996-08-21,26-091,7.0,660.0,0.0
+4,25.0,Yahya Attiat Allah,DF,1.ma Wydad Casablanca,"Safi, Morocco",1995-03-02,27-263,6.0,318.0,0.0
+5,24.0,Badr Banoun,DF,1.qa Qatar SC,"Casablanca, Morocco",1993-09-30,29-051,3.0,54.0,0.0
+6,17.0,Sofiane Boufal,FW,1.fr Angers,"Paris, France",1993-09-17,29-064,7.0,475.0,0.0
+7,1.0,Yassine Bounou,GK,1.es Sevilla,"Montréal, QC, Canada",1991-04-05,31-229,6.0,570.0,0.0
+8,13.0,Ilias Chair,MF,2.eng QPR,"Brugge, Belgium",1997-10-30,25-021,1.0,45.0,0.0
+9,21.0,Walid Cheddira,FW,2.it Bari,"Loreto, Italy",1998-01-22,24-302,2.0,64.0,0.0
+10,20.0,Achraf Dari,DF,1.fr Brest,"Casablanca, Morocco",1999-05-06,23-198,3.0,187.0,1.0
+11,19.0,Youssef En-Nesyri,FW,1.es Sevilla,"Fes-Medina, Morocco",1997-06-01,25-172,7.0,542.0,2.0
+12,16.0,Abdessamad Ezzalzouli,"FW,MF",1.es Osasuna,"Beni Mellal, Morocco",2001-12-17,20-338,3.0,93.0,0.0
+13,2.0,Achraf Hakimi,DF,1.fr Paris S-G,"Getafe, Spain",1998-11-04,24-016,7.0,631.0,0.0
+14,9.0,Abderrazak Hamdallah,FW,1.sa Al-Ittihad,"Safi, Morocco",1990-12-17,31-338,4.0,68.0,0.0
+15,26.0,Yahya Jabrane,MF,1.ma Wydad Casablanca,"Settat, Morocco",1991-06-18,31-155,2.0,15.0,0.0
+16,23.0,Bilal El Khannous,MF,1.be Genk,"Strombeek-Bever, Belgium",2004-05-10,18-194,1.0,55.0,0.0
+17,3.0,Noussair Mazraoui,DF,1.de Bayern Munich,"Leiderdorp, Netherlands",1997-11-14,25-006,5.0,365.0,0.0
+18,12.0,Munir,GK,1.sa Al-Wehda,Spain,1989-05-10,33-194,1.0,90.0,0.0
+19,8.0,Azzedine Ounahi,MF,1.fr Angers,"Casablanca, Morocco",2000-04-19,22-215,7.0,568.0,0.0
+20,22.0,Ahmed Reda Tagnaouti,GK,1.ma Wydad Casablanca,"Casablanca, Morocco",1996-04-05,26-229,0.0,,
+21,11.0,Abdelhamid Sabiri,MF,1.it Sampdoria,"Goulmima, Morocco",1996-11-28,25-357,5.0,181.0,0.0
+22,6.0,Romain Saïss,DF,1.tr Beşiktaş,"Bourg-de-Péage, France",1990-03-26,32-239,6.0,466.0,1.0
+23,18.0,Jawad El Yamiq,DF,1.es Valladolid,"Khouribga, Morocco",1992-02-29,30-264,6.0,309.0,0.0
+24,10.0,Anass Zaroury,FW,2.eng Burnley,"Mechelen, Belgium",2000-11-07,22-013,1.0,27.0,0.0
+25,7.0,Hakim Ziyech,FW,1.eng Chelsea,"Gemeente Dronten, Netherlands",1993-03-19,29-246,7.0,635.0,1.0
+0,5.0,Nathan Aké,DF,1.eng Manchester City,"The Hague, Netherlands",1995-02-18,27-275,5.0,479.0,0.0
+1,11.0,Steven Berghuis,MF,1.nl Ajax,"Apeldoorn, Netherlands",1991-12-19,30-336,4.0,200.0,0.0
+2,7.0,Steven Bergwijn,FW,1.nl Ajax,"Amsterdam, Netherlands",1997-10-08,25-043,4.0,213.0,0.0
+3,13.0,Justin Bijlow,GK,1.nl Feyenoord,"Rotterdam, Netherlands",1998-01-22,24-302,0.0,,
+4,17.0,Daley Blind,DF,1.nl Ajax,"Amsterdam, Netherlands",1990-03-09,32-256,5.0,423.0,1.0
+5,22.0,Denzel Dumfries,DF,1.it Inter,"Rotterdam, Netherlands",1996-04-18,26-216,5.0,479.0,1.0
+6,26.0,Jeremie Frimpong,"DF,MF",1.de Leverkusen,"Amsterdam, Netherlands",2000-12-10,21-345,0.0,,
+7,8.0,Cody Gakpo,"FW,MF",1.nl PSV Eindhoven,"Gemeente Eindhoven, Netherlands",1999-05-07,23-197,5.0,450.0,3.0
+8,18.0,Vincent Janssen,FW,1.be Antwerp,"Heesch, Netherlands",1994-06-15,28-158,2.0,86.0,0.0
+9,21.0,Frenkie de Jong,MF,1.es Barcelona,"Arkel, Netherlands",1997-05-12,25-192,5.0,475.0,1.0
+10,9.0,Luuk de Jong,FW,1.nl PSV Eindhoven,"Aigle, Switzerland",1990-08-27,32-085,1.0,57.0,0.0
+11,14.0,Davy Klaassen,"MF,FW",1.nl Ajax,"Gemeente Hilversum, Netherlands",1993-02-21,29-272,4.0,190.0,1.0
+12,20.0,Teun Koopmeiners,MF,1.it Atalanta,"Gemeente Castricum, Netherlands",1998-02-28,24-265,5.0,219.0,0.0
+13,12.0,Noa Lang,MF,1.be Club Brugge,"Capelle aan den IJssel, Netherlands",1999-06-17,23-156,1.0,8.0,0.0
+14,3.0,Matthijs de Ligt,DF,1.de Bayern Munich,"Leiderdorp, Netherlands",1999-08-12,23-100,2.0,91.0,0.0
+15,16.0,Tyrell Malacia,DF,1.eng Manchester Utd,"Rotterdam, Netherlands",1999-08-17,23-095,0.0,,
+16,10.0,Memphis,FW,1.es Barcelona,"Moordrecht, Netherlands",1994-02-13,28-280,5.0,297.0,1.0
+17,23.0,Andries Noppert,GK,1.nl Heerenveen,"Gemeente Heerenveen, Netherlands",1994-04-07,28-227,5.0,480.0,0.0
+18,1.0,Remko Pasveer,GK,1.nl Ajax,"Gemeente Enschede, Netherlands",1983-11-08,39-012,0.0,,
+19,15.0,Marten de Roon,MF,1.it Atalanta,"Zwijndrecht, Netherlands",1991-03-29,31-236,5.0,184.0,0.0
+20,25.0,Xavi Simons,"FW,MF",1.nl PSV Eindhoven,"Amsterdam, Netherlands",2003-04-21,19-213,1.0,9.0,0.0
+21,24.0,Kenneth Taylor,MF,1.nl Ajax,"Alkmaar, Netherlands",2002-05-16,20-188,1.0,5.0,0.0
+22,2.0,Jurriën Timber,DF,1.nl Ajax,"Utrecht, Netherlands",2001-06-17,21-156,4.0,390.0,0.0
+23,4.0,Virgil van Dijk,DF,1.eng Liverpool,"Breda, Netherlands",1991-07-08,31-135,5.0,480.0,0.0
+24,6.0,Stefan de Vrij,DF,1.it Inter,"Ouderkerk aan den IJssel, Netherlands",1992-02-05,30-288,0.0,,
+25,19.0,Wout Weghorst,FW,1.tr Beşiktaş,"Gemeente Borne, Netherlands",1992-08-07,30-105,4.0,64.0,2.0
+0,18.0,Trent Alexander-Arnold,DF,1.eng Liverpool,"Liverpool, England, United Kingdom",1998-10-07,24-044,1.0,34.0,0.0
+1,22.0,Jude Bellingham,MF,1.de Dortmund,"Stourbridge, England, United Kingdom",2003-06-29,19-144,5.0,414.0,1.0
+2,16.0,Conor Coady,"DF,MF",1.eng Everton,"Liverpool, England, United Kingdom",1993-02-25,29-268,0.0,,
+3,15.0,Eric Dier,DF,1.eng Tottenham,"Cheltenham, England, United Kingdom",1994-01-15,28-309,2.0,36.0,0.0
+4,20.0,Phil Foden,"FW,MF",1.eng Manchester City,"Stockport, England, United Kingdom",2000-05-28,22-176,4.0,258.0,1.0
+5,26.0,Conor Gallagher,MF,1.eng Chelsea,"Epsom, England, United Kingdom",2000-02-06,22-287,0.0,,
+6,7.0,Jack Grealish,FW,1.eng Manchester City,"Birmingham, England, United Kingdom",1995-09-10,27-071,5.0,86.0,1.0
+7,8.0,Jordan Henderson,MF,1.eng Liverpool,"Sunderland, England, United Kingdom",1990-06-17,32-156,4.0,271.0,1.0
+8,9.0,Harry Kane,FW,1.eng Tottenham,"Walthamstow, England, United Kingdom",1993-07-28,29-115,5.0,402.0,2.0
+9,25.0,James Maddison,"FW,MF",1.eng Leicester City,"Coventry, England, United Kingdom",1996-11-23,25-362,0.0,,
+10,6.0,Harry Maguire,DF,1.eng Manchester Utd,"Sheffield, England, United Kingdom",1993-03-05,29-260,5.0,429.0,0.0
+11,19.0,Mason Mount,MF,1.eng Chelsea,"Portsmouth, England, United Kingdom",1999-01-10,23-314,4.0,186.0,0.0
+12,14.0,Kalvin Phillips,MF,1.eng Manchester City,"Leeds, England, United Kingdom",1995-12-02,26-353,2.0,42.0,0.0
+13,1.0,Jordan Pickford,GK,1.eng Everton,"Washington, England, United Kingdom",1994-03-07,28-258,5.0,450.0,0.0
+14,13.0,Nick Pope,GK,1.eng Newcastle Utd,"Soham, England, United Kingdom",1992-04-19,30-215,0.0,,
+15,23.0,Aaron Ramsdale,GK,1.eng Arsenal,"Staffordshire, England, United Kingdom",1998-05-14,24-190,0.0,,
+16,11.0,Marcus Rashford,FW,1.eng Manchester Utd,"Wythenshawe, England, United Kingdom",1997-10-31,25-020,5.0,140.0,3.0
+17,4.0,Declan Rice,MF,1.eng West Ham,"London, England, United Kingdom",1999-01-14,23-310,5.0,417.0,0.0
+18,17.0,Bukayo Saka,FW,1.eng Arsenal,"Ealing, England, United Kingdom",2001-09-05,21-076,4.0,288.0,3.0
+19,3.0,Luke Shaw,DF,1.eng Manchester Utd,"Kingston upon Thames, England, United Kingdom",1995-07-12,27-131,5.0,424.0,0.0
+20,10.0,Raheem Sterling,FW,1.eng Chelsea,"Kingston, Jamaica",1994-12-08,27-347,3.0,149.0,1.0
+21,5.0,John Stones,DF,1.eng Manchester City,"Barnsley, England, United Kingdom",1994-05-28,28-176,5.0,434.0,0.0
+22,12.0,Kieran Trippier,DF,1.eng Newcastle Utd,"Bury, England, United Kingdom",1990-09-19,32-062,3.0,206.0,0.0
+23,2.0,Kyle Walker,DF,1.eng Manchester City,"Sheffield, England, United Kingdom",1990-05-28,32-176,3.0,236.0,0.0
+24,21.0,Ben White,DF,1.eng Arsenal,"Poole, England, United Kingdom",1997-10-08,25-043,0.0,,
+25,24.0,Callum Wilson,FW,1.eng Newcastle Utd,"Coventry, England, United Kingdom",1992-02-27,30-266,2.0,48.0,0.0
+0,1.0,Alisson,GK,1.eng Liverpool,"Novo Hamburgo, Brazil",1992-10-02,30-049,4.0,379.0,0.0
+1,13.0,Dani Alves,DF,1.mx UNAM,"Juazeiro, Brazil",1983-05-06,39-198,2.0,118.0,0.0
+2,19.0,Antony,FW,1.eng Manchester Utd,"São Paulo, Brazil",2000-02-24,22-269,4.0,172.0,0.0
+3,24.0,Gleison Bremer,DF,1.it Juventus,"Itapiranga, Brazil",1997-03-18,25-247,2.0,109.0,0.0
+4,5.0,Casemiro,MF,1.eng Manchester Utd,"São José dos Campos, Brazil",1992-02-23,30-270,4.0,390.0,1.0
+5,2.0,Danilo,DF,1.it Juventus,"Bicas, Brazil",1991-07-15,31-128,3.0,281.0,0.0
+6,23.0,Ederson,GK,1.eng Manchester City,"Osasco, Brazil",1993-08-17,29-095,1.0,90.0,0.0
+7,15.0,Fabinho,MF,1.eng Liverpool,"Campinas, Brazil",1993-10-23,29-028,1.0,90.0,0.0
+8,8.0,Fred,MF,1.eng Manchester Utd,"Belo Horizonte, Brazil",1993-03-05,29-260,4.0,142.0,0.0
+9,17.0,Bruno Guimarães,MF,1.eng Newcastle Utd,"Rio de Janeiro, Brazil",1997-11-16,25-004,2.0,69.0,0.0
+10,18.0,Gabriel Jesus,FW,1.eng Arsenal,"São Paulo, Brazil",1997-04-03,25-231,3.0,93.0,0.0
+11,20.0,Vinicius Júnior,FW,1.es Real Madrid,"São Gonçalo, Brazil",2000-07-12,22-131,4.0,299.0,1.0
+12,4.0,Marquinhos,DF,1.fr Paris S-G,"São Paulo, Brazil",1994-05-14,28-190,5.0,426.0,0.0
+13,26.0,Martinelli,FW,1.eng Arsenal,"Guarulhos, Brazil",2001-06-18,21-155,3.0,113.0,0.0
+14,14.0,Éder Militão,DF,1.es Real Madrid,"Sertãozinho, Brazil",1998-01-18,24-306,4.0,347.0,0.0
+15,10.0,Neymar,MF,1.fr Paris S-G,"Mogi das Cruzes, Brazil",1992-02-05,30-288,3.0,279.0,2.0
+16,7.0,Lucas Paquetá,MF,1.eng West Ham,"Rio de Janeiro, Brazil",1997-08-27,25-085,4.0,314.0,1.0
+17,25.0,Pedro,FW,1.br Flamengo,"Rio de Janeiro, Brazil",1997-06-20,25-153,2.0,64.0,0.0
+18,11.0,Raphinha,FW,1.es Barcelona,"Porto Alegre, Brazil",1996-12-14,25-341,5.0,315.0,0.0
+19,22.0,Everton Ribeiro,MF,1.br Flamengo,"Arujá, Brazil",1989-04-10,33-224,1.0,36.0,0.0
+20,9.0,Richarlison,FW,1.eng Tottenham,"Nova Venécia, Brazil",1997-05-10,25-194,4.0,323.0,3.0
+21,21.0,Rodrygo,"MF,FW",1.es Real Madrid,"Osasco, Brazil",2001-01-09,21-315,5.0,181.0,0.0
+22,6.0,Alex Sandro,DF,1.it Juventus,"Catanduva, Brazil",1991-01-26,31-298,3.0,190.0,0.0
+23,3.0,Thiago Silva,DF,1.eng Chelsea,"Rio de Janeiro, Brazil",1984-09-22,38-059,4.0,390.0,0.0
+24,16.0,Alex Telles,DF,1.es Sevilla,"Caxias do Sul, Brazil",1992-12-15,29-340,2.0,59.0,0.0
+25,12.0,Wéverton,GK,1.br Palmeiras,"Rio Branco, Brazil",1987-12-13,34-342,1.0,11.0,0.0
+0,20.0,João Cancelo,DF,1.eng Manchester City,"Barreiro, Portugal",1994-05-27,28-177,4.0,310.0,0.0
+1,14.0,William Carvalho,MF,1.es Betis,"Luanda, Angola",1992-04-07,30-227,4.0,215.0,0.0
+2,22.0,Diogo Costa,GK,1.pt Porto,"Rothrist, Switzerland",1999-09-19,23-062,5.0,450.0,0.0
+3,2.0,Diogo Dalot,DF,1.eng Manchester Utd,"Braga, Portugal",1999-03-18,23-247,3.0,258.0,0.0
+4,4.0,Rúben Dias,DF,1.eng Manchester City,"Amadora, Portugal",1997-05-14,25-190,4.0,360.0,0.0
+5,11.0,João Félix,FW,1.es Atlético Madrid,"Viseu, Portugal",1999-11-10,23-010,4.0,331.0,1.0
+6,8.0,Bruno Fernandes,"FW,MF",1.eng Manchester Utd,"Maia, Portugal",1994-09-08,28-073,4.0,356.0,2.0
+7,5.0,Raphaël Guerreiro,DF,1.de Dortmund,"Le Blanc-Mesnil, France",1993-12-22,28-333,4.0,279.0,1.0
+8,21.0,Ricardo Horta,FW,1.pt Braga,"Sobreda, Portugal",1994-09-15,28-066,3.0,119.0,1.0
+9,15.0,Rafael Leão,FW,1.it Milan,"Almada, Portugal",1999-06-10,23-163,5.0,88.0,2.0
+10,17.0,João Mário,"FW,MF",1.pt Benfica,"Porto, Portugal",1993-01-19,29-305,2.0,84.0,0.0
+11,,Nuno Mendes,DF,1.fr Paris S-G,"Sintra, Portugal",2002-06-19,20-154,1.0,41.0,0.0
+12,18.0,Rúben Neves,MF,1.eng Wolves,"Mozelos, Portugal",1997-03-13,25-252,5.0,268.0,0.0
+13,23.0,Matheus Nunes,MF,1.eng Wolves,"Rio de Janeiro, Brazil",1998-08-27,24-085,2.0,73.0,0.0
+14,25.0,Otávio,MF,1.pt Porto,"João Pessoa, Brazil",1995-02-09,27-284,3.0,196.0,0.0
+15,6.0,João Palhinha,MF,1.eng Fulham,"Lisbon, Portugal",1995-07-09,27-134,3.0,38.0,0.0
+16,1.0,Rui Patrício,GK,1.it Roma,"Marrazes, Portugal",1988-02-15,34-278,0.0,,
+17,3.0,Pepe,DF,1.pt Porto,"Maceió, Brazil",1983-02-26,39-267,4.0,360.0,1.0
+18,13.0,Danilo Pereira,DF,1.fr Paris S-G,"Bissau, Guinea-Bissau",1991-09-09,31-072,1.0,90.0,0.0
+19,26.0,Gonçalo Ramos,"FW,MF",1.pt Benfica,"Olhão, Portugal",2001-06-20,21-153,4.0,152.0,3.0
+20,7.0,Cristiano Ronaldo,FW,1.eng Manchester Utd,"Funchal, Portugal",1985-02-05,37-288,5.0,290.0,1.0
+21,12.0,José Sá,GK,1.eng Wolves,"Braga, Portugal",1993-01-17,29-307,0.0,,
+22,9.0,André Silva,FW,1.de RB Leipzig,"Baguim do Monte, Portugal",1995-11-06,27-014,1.0,26.0,0.0
+23,24.0,António Silva,DF,1.pt Benfica,"Portugal, Portugal",2003-10-30,19-021,1.0,90.0,0.0
+24,10.0,Bernardo Silva,MF,1.eng Manchester City,"Lisbon, Portugal",1994-08-10,28-102,5.0,356.0,0.0
+25,16.0,Vitinha,MF,1.fr Paris S-G,"Portugal, Portugal",2000-02-13,22-280,3.0,120.0,0.0
+0,18.0,Takuma Asano,FW,1.de Bochum,"Komono, Japan",1994-11-10,28-010,4.0,165.0,1.0
+1,8.0,Ritsu Doan,FW,1.de Freiburg,"Amagasaki Shi, Japan",1998-06-16,24-157,4.0,217.0,2.0
+2,6.0,Wataru Endo,MF,1.de Stuttgart,"Yokohama Shi, Japan",1993-02-09,29-284,4.0,304.0,0.0
+3,12.0,Shūichi Gonda,GK,1.jp S-Pulse,"Setagaya-ku, Japan",1989-03-03,33-262,4.0,390.0,0.0
+4,4.0,Ko Itakura,DF,1.de M'Gladbach,"Yokohama Shi, Japan",1997-01-27,25-297,3.0,270.0,0.0
+5,26.0,Hiroki Ito,DF,1.de Stuttgart,"Hamamatsu-shi, Japan",1999-05-12,23-192,1.0,45.0,0.0
+6,14.0,Junya Ito,"MF,FW",1.fr Reims,"Yokosuka, Japan",1993-03-09,29-256,4.0,324.0,0.0
+7,15.0,Daichi Kamada,"FW,MF",1.de Eint Frankfurt,Japan,1996-08-05,26-107,4.0,322.0,0.0
+8,1.0,Eiji Kawashima,GK,1.fr Strasbourg,"Yono, Japan",1983-03-20,39-245,0.0,,
+9,11.0,Takefusa Kubo,FW,1.es Real Sociedad,"Kawasaki-shi, Japan",2001-06-04,21-169,2.0,90.0,0.0
+10,20.0,Shuto Machino,FW,1.jp Shonan Bellmare,"Iga-shi, Japan",1999-09-30,23-051,0.0,,
+11,25.0,Daizen Maeda,FW,1.sct Celtic,Japan,1997-10-20,25-031,3.0,180.0,1.0
+12,10.0,Takumi Minamino,FW,1.fr Monaco,"Izumisano Shi, Japan",1995-01-16,27-308,3.0,60.0,0.0
+13,9.0,Kaoru Mitoma,MF,1.eng Brighton,"Ōita, Japan",1997-05-20,25-184,4.0,165.0,0.0
+14,13.0,Hidemasa Morita,MF,1.pt Sporting CP,"Takatsuki, Japan",1995-05-10,27-194,3.0,285.0,0.0
+15,5.0,Yuto Nagatomo,"MF,DF",1.jp FC Tokyo,"Saijō Shi, Japan",1986-09-12,36-069,4.0,209.0,0.0
+16,19.0,Hiroki Sakai,"MF,DF",1.jp Urawa Reds,"Kashiwa, Japan",1990-04-12,32-222,2.0,119.0,0.0
+17,23.0,Daniel Schmidt,GK,1.be Sint-Truiden,"IL, United States",1992-02-03,30-290,0.0,,
+18,7.0,Gaku Shibasaki,MF,2.es Leganés,"Nobeji, Japan",1992-05-28,30-176,0.0,,
+19,24.0,Yuki Soma,"FW,MF",1.jp Grampus,Japan,1997-02-25,25-268,1.0,81.0,0.0
+20,17.0,Ao Tanaka,MF,2.de Düsseldorf,"Kawasaki, Japan",1998-09-10,24-071,3.0,171.0,1.0
+21,3.0,Shogo Taniguchi,DF,1.jp Kawa Frontale,"Kumamoto Shi, Japan",1991-07-15,31-128,2.0,210.0,0.0
+22,16.0,Takehiro Tomiyasu,"DF,MF",1.eng Arsenal,"Fukuoka, Japan",1998-11-05,24-015,3.0,187.0,0.0
+23,21.0,Ayase Ueda,FW,1.be Cercle Brugge,"Mito, Japan",1998-09-10,24-071,1.0,45.0,0.0
+24,2.0,Miki Yamane,"DF,MF",1.jp Kawa Frontale,"Yokohama Shi, Japan",1993-12-22,28-333,1.0,61.0,0.0
+25,22.0,Maya Yoshida,DF,1.de Schalke 04,"Nagasaki-shi, Japan",1988-08-24,34-088,4.0,390.0,0.0
+0,4.0,Pape Abou Cissé,DF,1.gr Olympiacos,"Pikine, Senegal",1995-09-14,27-067,3.0,105.0,0.0
+1,12.0,Fodé Ballo-Touré,DF,1.it Milan,"Conflans-Sainte-Honorine, France",1997-01-03,25-321,1.0,7.0,0.0
+2,11.0,Pathé Ciss,MF,1.es Rayo Vallecano,"Dakar, Senegal",1994-03-16,28-249,3.0,146.0,0.0
+3,9.0,Boulaye Dia,FW,1.it Salernitana,"Oyonnax, France",1996-11-16,26-004,4.0,318.0,1.0
+4,22.0,Abdou Diallo,DF,1.de RB Leipzig,"Tours, France",1996-05-04,26-200,4.0,331.0,0.0
+5,15.0,Krépin Diatta,"FW,MF",1.fr Monaco,"Dakar, Senegal",1999-02-25,23-268,3.0,181.0,0.0
+6,19.0,Famara Diedhiou,FW,1.tr Alanyaspor,"Saint-Louis, Senegal",1992-12-15,29-340,2.0,92.0,1.0
+7,20.0,Bamba Dieng,FW,1.fr Marseille,"Pikine, Senegal",2000-03-23,22-242,4.0,100.0,1.0
+8,1.0,Seny Dieng,GK,2.eng QPR,"Zürich, Switzerland",1994-11-23,27-362,0.0,,
+9,5.0,Idrissa Gana Gueye,MF,1.eng Everton,"Dakar, Senegal",1989-09-26,33-055,3.0,270.0,0.0
+10,23.0,Alfred Gomis,GK,1.fr Rennes,"Ziguinchor, Senegal",1993-09-05,29-076,0.0,,
+11,26.0,Pape Gueye,MF,1.fr Marseille,"Montreuil, France",1999-01-24,23-300,3.0,153.0,0.0
+12,7.0,Nicolas Jackson,FW,1.es Villarreal,"Banjul, Gambia",2001-06-20,21-153,1.0,17.0,0.0
+13,14.0,Ismail Jakobs,DF,1.fr Monaco,"Köln, Germany",1999-08-17,23-095,4.0,278.0,0.0
+14,3.0,Kalidou Koulibaly,DF,1.eng Chelsea,"Saint-Dié-des-Vosges, France",1991-06-20,31-153,4.0,360.0,1.0
+15,8.0,Cheikhou Kouyaté,MF,1.eng Nott'ham Forest,"Dakar, Senegal",1989-12-21,32-334,1.0,72.0,0.0
+16,25.0,Mamadou Loum,MF,2.eng Reading,"Dakar, Senegal",1996-12-30,25-325,0.0,,
+17,17.0,Pape Matar Sarr,MF,1.eng Tottenham,"Thiaroye, Senegal",2002-09-14,20-067,2.0,59.0,0.0
+18,16.0,Edouard Mendy,GK,1.eng Chelsea,"Montivilliers, France",1992-03-01,30-264,4.0,360.0,0.0
+19,2.0,Formose Mendy,DF,2.fr Amiens,"Dakar, Senegal",2001-01-02,21-322,0.0,,
+20,6.0,Nampalys Mendy,MF,1.eng Leicester City,"La Seyne-sur-Mer, France",1992-06-23,30-150,4.0,272.0,0.0
+21,10.0,Moussa N'Diaye,DF,1.be Anderlecht,"Dakar, Senegal",2002-06-18,20-155,0.0,,
+22,24.0,Moustapha Name,MF,1.cy Pafos FC,"Dakar, Senegal",1995-05-05,27-199,0.0,,
+23,13.0,Iliman Ndiaye,"FW,MF",2.eng Sheffield Utd,"Rouen, France",2000-03-06,22-259,3.0,135.0,0.0
+24,21.0,Youssouf Sabaly,DF,1.es Betis,"Le Chesnay, France",1993-03-05,29-260,4.0,360.0,0.0
+25,18.0,Ismaila Sarr,"FW,MF",2.eng Watford,"Saint-Louis, Senegal",1998-02-25,24-268,4.0,344.0,1.0
+0,3.0,Nathaniel Atkinson,DF,1.sct Hearts,"Launceston, Australia",1999-06-13,23-160,1.0,84.0,0.0
+1,26.0,Keanu Baccus,MF,1.sct St Mirren,"Durban, South Africa",1998-06-07,24-166,4.0,114.0,0.0
+2,16.0,Aziz Behich,DF,1.sct Dundee United,"Moonee Ponds, Australia",1990-12-16,31-339,4.0,360.0,0.0
+3,25.0,Jason Cummings,FW,1.au Central Coast,"Edinburgh, Scotland, United Kingdom",1995-08-01,27-111,1.0,35.0,0.0
+4,2.0,Miloš Degenek,DF,1.us Columbus Crew,"Knin, Croatia",1994-04-28,28-206,4.0,183.0,0.0
+5,20.0,Thomas Deng,DF,2.jp Albirex Niigata,"Nairobi, Kenya",1997-03-20,25-245,0.0,,
+6,17.0,Cameron Devlin,MF,1.sct Hearts,"Sydney, Australia",1998-06-07,24-166,0.0,,
+7,15.0,Mitchell Duke,FW,2.jp Fagi Okayama,"Liverpool, Australia",1991-01-18,31-306,4.0,270.0,1.0
+8,23.0,Craig Goodwin,MF,1.au Adelaide,"Adelaide, Australia",1991-12-16,30-339,4.0,234.0,1.0
+9,10.0,Ajdin Hrustic,"MF,FW",1.it Hellas Verona,"Melbourne, Australia",1996-07-05,26-138,3.0,62.0,0.0
+10,22.0,Jackson Irvine,"MF,FW",2.de St. Pauli,"Melbourne, Australia",1993-03-07,29-258,4.0,354.0,0.0
+11,5.0,Fran Karačić,DF,2.it Brescia,"Zagreb, Croatia",1996-05-12,26-192,2.0,93.0,0.0
+12,24.0,Joel King,DF,1.dk Odense,"Figtree, Australia",2000-10-30,22-021,0.0,,
+13,21.0,Garang Kuol,"FW,MF",1.au Central Coast,"Khartoum, Sudan",2004-09-15,18-066,2.0,37.0,0.0
+14,7.0,Mathew Leckie,"MF,FW",1.au Melb City,"Melbourne, Australia",1991-02-04,31-289,4.0,333.0,1.0
+15,11.0,Awer Mabil,MF,1.es Cádiz,"Kakuma, Kenya",1995-09-15,27-066,2.0,24.0,0.0
+16,9.0,Jamie Maclaren,FW,1.au Melb City,"Melbourne, Australia",1993-07-29,29-114,3.0,55.0,0.0
+17,14.0,Riley McGree,"FW,MF",2.eng Middlesbrough,"Adelaide, Australia",1998-11-02,24-018,4.0,265.0,0.0
+18,13.0,Aaron Mooy,MF,1.sct Celtic,"Sydney, Australia",1990-09-15,32-066,4.0,360.0,0.0
+19,12.0,Andrew Redmayne,GK,1.au Sydney FC,"Gosford, Australia",1989-01-13,33-311,0.0,,
+20,4.0,Kye Rowles,DF,1.sct Hearts,"Kiama, Australia",1998-06-24,24-149,4.0,360.0,0.0
+21,1.0,Mathew Ryan,GK,1.dk FC Copenhagen,"Plumpton, Australia",1992-04-08,30-226,4.0,360.0,0.0
+22,19.0,Harry Souttar,DF,2.eng Stoke City,"Aberdeen, Scotland, United Kingdom",1998-10-22,24-029,4.0,360.0,0.0
+23,6.0,Marco Tilio,MF,1.au Melb City,"Hurstville, Australia",2001-08-23,21-089,0.0,,
+24,18.0,Danny Vukovic,GK,1.au Central Coast,"Sydney, Australia",1985-03-27,37-238,0.0,,
+25,8.0,Bailey Wright,DF,2.eng Sunderland,"Melbourne, Australia",1992-07-28,30-115,1.0,17.0,0.0
+0,14.0,Michel Aebischer,"MF,FW",1.it Bologna,"Genève, Switzerland",1997-01-06,25-318,1.0,16.0,0.0
+1,5.0,Manuel Akanji,DF,1.eng Manchester City,"Wiesendangen / Wiesendangen (Dorf), Switzerland",1995-07-19,27-124,4.0,360.0,1.0
+2,18.0,Eray Cömert,DF,1.es Valencia,"Basel, Switzerland",1998-02-04,24-289,2.0,46.0,0.0
+3,4.0,Nico Elvedi,DF,1.de M'Gladbach,"Zürich, Switzerland",1996-09-30,26-051,2.0,180.0,0.0
+4,7.0,Breel Embolo,FW,1.fr Monaco,"Yaoundé, Cameroon",1997-02-14,25-279,4.0,323.0,2.0
+5,16.0,Christian Fassnacht,FW,1.ch Young Boys,"Zürich, Switzerland",1993-11-11,29-009,1.0,8.0,0.0
+6,2.0,Edimilson Fernandes,"FW,DF",1.de Mainz 05,"Sitten, Switzerland",1996-04-15,26-219,3.0,145.0,0.0
+7,20.0,Fabian Frei,MF,1.ch Basel,"Frauenfeld, Switzerland",1989-01-08,33-316,2.0,25.0,0.0
+8,8.0,Remo Freuler,MF,1.eng Nott'ham Forest,"Ennenda, Switzerland",1992-04-15,30-219,4.0,323.0,1.0
+9,26.0,Ardon Jasari,FW,1.ch Luzern,"Cham, Switzerland",2002-07-30,20-113,1.0,2.0,0.0
+10,21.0,Gregor Kobel,GK,1.de Dortmund,"Zürich, Switzerland",1997-12-06,24-349,1.0,90.0,0.0
+11,24.0,Philipp Köhn,GK,1.at RB Salzburg,"Dinslaken, Germany",1998-04-02,24-232,0.0,,
+12,19.0,Noah Okafor,"FW,MF",1.at RB Salzburg,"Binningen, Switzerland",2000-05-24,22-180,3.0,45.0,0.0
+13,12.0,Jonas Omlin,GK,1.fr Montpellier,"Sarnen, Switzerland",1994-01-10,28-314,0.0,,
+14,25.0,Fabian Rieder,FW,1.ch Young Boys,"Koppigen, Switzerland",2002-02-16,20-277,2.0,68.0,0.0
+15,13.0,Ricardo Rodríguez,DF,1.it Torino,"Zürich, Switzerland",1992-08-25,30-087,4.0,359.0,0.0
+16,22.0,Fabian Schär,DF,1.eng Newcastle Utd,"Wil, Switzerland",1991-12-20,30-335,2.0,135.0,0.0
+17,9.0,Haris Seferović,FW,1.tr Galatasaray,"Sursee, Switzerland",1992-02-22,30-271,3.0,71.0,0.0
+18,23.0,Xherdan Shaqiri,"FW,MF",1.us Chicago Fire,"Komuna e Gjilanit, Kosovo",1991-10-10,31-041,3.0,229.0,1.0
+19,1.0,Yann Sommer,GK,1.de M'Gladbach,"Morges, Switzerland",1988-12-17,33-338,3.0,270.0,0.0
+20,15.0,Djibril Sow,MF,1.de Eint Frankfurt,"Zürich, Switzerland",1997-02-06,25-287,4.0,264.0,0.0
+21,,Renato Steffen,FW,1.ch Lugano,"Aarau, Switzerland",1991-11-03,31-017,1.0,32.0,0.0
+22,17.0,Ruben Vargas,FW,1.de Augsburg,"Adligenswil, Switzerland",1998-08-05,24-107,4.0,285.0,0.0
+23,3.0,Silvan Widmer,DF,1.de Mainz 05,"Aarau, Switzerland",1993-03-05,29-260,3.0,265.0,0.0
+24,10.0,Granit Xhaka,MF,1.eng Arsenal,"Basel, Switzerland",1992-09-27,30-054,4.0,360.0,0.0
+25,6.0,Denis Zakaria,MF,1.eng Chelsea,"Kinshasa, Congo DR",1996-11-20,26-000,2.0,59.0,0.0
+0,18.0,Jordi Alba,DF,1.es Barcelona,"Marmolejo, Spain",1989-03-21,33-244,4.0,264.0,0.0
+1,10.0,Marco Asensio,FW,1.es Real Madrid,"Palma de Mallorca, Spain",1996-01-21,26-303,4.0,229.0,1.0
+2,2.0,César Azpilicueta,DF,1.eng Chelsea,"Pamplona, Spain",1989-08-28,33-084,2.0,135.0,0.0
+3,14.0,Alejandro Balde,DF,1.es Barcelona,"Barcelona, Spain",2003-10-18,19-033,4.0,126.0,0.0
+4,5.0,Sergio Busquets,MF,1.es Barcelona,"Sabadell, Spain",1988-07-16,34-127,4.0,363.0,0.0
+5,20.0,Dani Carvajal,DF,1.es Real Madrid,"Leganés, Spain",1992-01-11,30-313,2.0,135.0,0.0
+6,25.0,Ansu Fati,FW,1.es Barcelona,"Bissau, Guinea-Bissau",2002-10-31,20-020,2.0,46.0,0.0
+7,3.0,Eric García,DF,1.es Barcelona,"Barcelona, Spain",2001-01-09,21-315,0.0,,
+8,9.0,Gavi,MF,1.es Barcelona,"Los Palacios y Villafranca, Spain",2004-08-05,18-107,4.0,284.0,1.0
+9,15.0,Hugo Guillamón,"DF,MF",1.es Valencia,"San Sebastián, Spain",2000-01-31,22-293,0.0,,
+10,8.0,Koke,MF,1.es Atlético Madrid,"Madrid, Spain",1992-01-08,30-316,2.0,52.0,0.0
+11,24.0,Aymeric Laporte,DF,1.eng Manchester City,"Agen, France",1994-05-27,28-177,3.0,300.0,0.0
+12,6.0,Marcos Llorente,DF,1.es Atlético Madrid,"Madrid, Spain",1995-01-30,27-294,1.0,120.0,0.0
+13,7.0,Álvaro Morata,FW,1.es Atlético Madrid,"Madrid, Spain",1992-10-23,30-028,4.0,185.0,3.0
+14,21.0,Dani Olmo,FW,1.de RB Leipzig,"Terrassa, Spain",1998-05-07,24-197,4.0,367.0,1.0
+15,26.0,Pedri,MF,1.es Barcelona,"Bajamar, Spain",2002-11-25,19-360,4.0,356.0,0.0
+16,17.0,Yeremi Pino,"FW,MF",1.es Villarreal,"Las Palmas de Gran Canaria, Spain",2002-10-20,20-031,0.0,,
+17,13.0,David Raya,"FW,GK",1.eng Brentford,"Barcelona, Spain",1995-09-15,27-066,0.0,,
+18,16.0,Rodri,DF,1.eng Manchester City,"Madrid, Spain",1996-06-22,26-151,4.0,390.0,0.0
+19,1.0,Robert Sánchez,GK,1.eng Brighton,"Cartagena, Spain",1997-11-18,25-002,0.0,,
+20,22.0,Pablo Sarabia,FW,1.fr Paris S-G,"Madrid, Spain",1992-05-11,30-193,1.0,3.0,0.0
+21,23.0,Unai Simón,GK,1.es Athletic Club,"Gasteiz / Vitoria, Spain",1997-06-11,25-162,4.0,390.0,0.0
+22,19.0,Carlos Soler,MF,1.fr Paris S-G,"Valencia, Spain",1997-01-02,25-322,2.0,92.0,1.0
+23,11.0,Ferrán Torres,FW,1.es Barcelona,"Foios, Spain",2000-02-29,22-264,4.0,217.0,2.0
+24,4.0,Pau Torres,DF,1.es Villarreal,"Villarreal, Spain",1997-01-16,25-308,1.0,90.0,0.0
+25,12.0,Nico Williams,FW,1.es Athletic Club,"Pamplona, Spain",2002-07-12,20-131,4.0,146.0,0.0
+0,11.0,Brenden Aaronson,MF,1.eng Leeds United,"Medford, NJ, United States",2000-10-22,22-029,4.0,108.0,0.0
+1,23.0,Kellyn Acosta,MF,1.us Los Angeles FC,"Plano, TX, United States",1995-07-24,27-119,2.0,43.0,0.0
+2,4.0,Tyler Adams,MF,1.eng Leeds United,"Wappingers Falls, NY, United States",1999-02-14,23-279,4.0,360.0,0.0
+3,20.0,Cameron Carter-Vickers,DF,1.sct Celtic,"Southend-on-Sea, England, United Kingdom",1997-12-31,24-324,1.0,90.0,0.0
+4,2.0,Sergiño Dest,DF,1.it Milan,"Almere Stad, Netherlands",2000-11-03,22-017,4.0,305.0,0.0
+5,9.0,Jesús Ferreira,FW,1.us FC Dallas,"Santa Marta, Colombia",2000-12-24,21-331,1.0,45.0,0.0
+6,12.0,Ethan Horvath,GK,2.eng Luton Town,"Highlands Ranch, CO, United States",1995-06-09,27-164,0.0,,
+7,25.0,Sean Johnson,GK,1.us NYCFC,"Lilburn, GA, United States",1989-05-31,33-173,0.0,,
+8,14.0,Luca de la Torre,MF,1.es Celta Vigo,"San Diego, CA, United States",1998-05-23,24-181,0.0,,
+9,15.0,Aaron Long,DF,1.us NY Red Bulls,"Oak Hills, CA, United States",1992-10-12,30-039,0.0,,
+10,8.0,Weston McKennie,MF,1.it Juventus,"Little Elm, TX, United States",1998-08-28,24-084,4.0,271.0,0.0
+11,18.0,Shaquell Moore,DF,1.us Nashville,"Powder Springs, GA, United States",1996-11-02,26-018,2.0,22.0,0.0
+12,16.0,Jordan Morris,"FW,DF",1.us Seattle,"Seattle, WA, United States",1994-10-26,28-025,2.0,4.0,0.0
+13,6.0,Yunus Musah,MF,1.es Valencia,"The Bronx, NY, United States",2002-11-29,19-356,4.0,343.0,0.0
+14,10.0,Christian Pulisic,"FW,MF",1.eng Chelsea,"Easton, PA, United States",1998-09-18,24-063,4.0,315.0,1.0
+15,13.0,Tim Ream,DF,1.eng Fulham,"St. Louis, MO, United States",1987-10-05,35-046,4.0,360.0,0.0
+16,7.0,Gio Reyna,FW,1.de Dortmund,"Durham, England, United Kingdom",2002-11-13,20-007,2.0,53.0,0.0
+17,5.0,Antonee Robinson,DF,1.eng Fulham,"Milton Keynes, England, United Kingdom",1997-08-08,25-104,4.0,359.0,0.0
+18,17.0,Cristian Roldan,"FW,MF",1.us Seattle,"Pico Rivera, CA, United States",1995-06-03,27-170,0.0,,
+19,24.0,Josh Sargent,FW,2.eng Norwich City,"O'Fallon, MO, United States",2000-02-20,22-273,3.0,157.0,0.0
+20,26.0,Joe Scally,DF,1.de M'Gladbach,"Lake Grove, NY, United States",2002-12-31,19-324,0.0,,
+21,1.0,Matt Turner,GK,1.eng Arsenal,"Park Ridge, NJ, United States",1994-06-24,28-149,4.0,360.0,0.0
+22,21.0,Timothy Weah,FW,1.fr Lille,"Brooklyn, NY, United States",2000-02-22,22-271,4.0,316.0,1.0
+23,19.0,Haji Wright,FW,1.tr Antalyaspor,"Los Angeles, CA, United States",1998-03-27,24-238,4.0,137.0,1.0
+24,22.0,DeAndre Yedlin,DF,1.us Inter Miami,"Seattle, WA, United States",1993-07-09,29-134,2.0,33.0,0.0
+25,3.0,Walker Zimmerman,DF,1.us Nashville,"Lawrenceville, GA, United States",1993-05-19,29-185,4.0,279.0,0.0
+0,5.0,Jan Bednarek,DF,1.eng Aston Villa,"Słupca, Poland",1996-04-12,26-222,1.0,5.0,0.0
+1,18.0,Bartosz Bereszyński,DF,1.it Sampdoria,"Poznań, Poland",1992-07-12,30-131,4.0,341.0,0.0
+2,6.0,Krystian Bielik,MF,3.eng Derby County,"Konin, Poland",1998-01-04,24-320,4.0,216.0,0.0
+3,2.0,Matty Cash,DF,1.eng Aston Villa,"Slough, England, United Kingdom",1997-08-07,25-105,4.0,360.0,0.0
+4,24.0,Przemysław Frankowski,MF,1.fr Lens,"Gdańsk, Poland",1995-04-12,27-222,4.0,240.0,0.0
+5,15.0,Kamil Glik,DF,2.it Benevento,"Jastrzębie Zdrój, Poland",1988-02-03,34-290,4.0,360.0,0.0
+6,22.0,Kamil Grabara,GK,1.dk FC Copenhagen,"Ruda Śląska, Poland",1999-01-08,23-316,0.0,,
+7,11.0,Kamil Grosicki,MF,1.pl Pogoń Szczecin,"Szczecin, Poland",1988-06-08,34-165,1.0,4.0,0.0
+8,25.0,Robert Gumny,DF,1.de Augsburg,"Poznań, Poland",1998-06-04,24-169,0.0,,
+9,3.0,Artur Jędrzejczyk,DF,1.pl Legia Warsaw,"Dębica, Poland",1987-11-04,35-016,1.0,19.0,0.0
+10,13.0,Jakub Kamiński,MF,1.de Wolfsburg,"Ruda Śląska, Poland",2002-06-05,20-168,4.0,233.0,0.0
+11,14.0,Jakub Kiwior,DF,1.it Spezia,"Tychy, Poland",2000-02-15,22-278,4.0,355.0,0.0
+12,10.0,Grzegorz Krychowiak,MF,1.sa Al-Shabab,"Gryfice, Poland",1990-01-29,32-295,4.0,332.0,0.0
+13,9.0,Robert Lewandowski,FW,1.es Barcelona,"Warsaw, Poland",1988-08-21,34-091,4.0,360.0,2.0
+14,7.0,Arkadiusz Milik,"FW,MF",1.it Juventus,"Tychy, Poland",1994-02-28,28-265,3.0,101.0,0.0
+15,23.0,Krzysztof Piątek,FW,1.it Salernitana,"Dzierżoniów, Poland",1995-07-01,27-142,2.0,28.0,0.0
+16,26.0,Michał Skóraś,MF,1.pl Lech Poznań,"Jastrzębie Zdrój, Poland",2000-02-15,22-278,1.0,45.0,0.0
+17,12.0,Łukasz Skorupski,GK,1.it Bologna,"Zabrze, Poland",1991-05-05,31-199,0.0,,
+18,16.0,Karol Świderski,FW,1.us Charlotte,"Rawicz, Poland",1997-01-23,25-301,1.0,45.0,0.0
+19,1.0,Wojciech Szczęsny,GK,1.it Juventus,"Warsaw, Poland",1990-04-18,32-216,4.0,360.0,0.0
+20,8.0,Damian Szymański,MF,1.gr AEK Athens,"Kraśnik, Poland",1995-06-16,27-157,1.0,29.0,0.0
+21,19.0,Sebastian Szymański,MF,1.nl Feyenoord,"Biała Podlaska, Poland",1999-05-10,23-194,2.0,134.0,0.0
+22,4.0,Mateusz Wieteska,DF,1.fr Clermont Foot,"Warsaw, Poland",1997-02-11,25-282,0.0,,
+23,21.0,Nicola Zalewski,MF,1.it Roma,"Tivoli, Italy",2002-01-23,20-301,2.0,65.0,0.0
+24,20.0,Piotr Zieliński,"MF,FW",1.it Napoli,"Ząbkowice Śląskie, Poland",1994-05-20,28-184,4.0,328.0,1.0
+25,17.0,Szymon Żurkowski,MF,1.it Fiorentina,"Tychy, Poland",1997-09-25,25-056,0.0,,
+0,12.0,Song Bumkeun,GK,1.kr Jeonbuk,"Seongnam-si, Korea Republic",1997-10-15,25-036,0.0,,
+1,22.0,Kwon Chang-hoon,"FW,MF",1.kr Sangju Sangmu,Korea Republic,1994-06-30,28-143,1.0,56.0,0.0
+2,14.0,Hong Chul,DF,1.kr Daegu,"Seongnam-si, Korea Republic",1990-09-17,32-064,1.0,45.0,0.0
+3,9.0,Cho Guesung,FW,1.kr Jeonbuk,"Ansan-si, Korea Republic",1998-01-25,24-299,4.0,275.0,2.0
+4,11.0,Hwang Hee-chan,"MF,FW",1.eng Wolves,"Chuncheon, Korea Republic",1996-01-26,26-298,2.0,115.0,1.0
+5,7.0,Son Heung-min,"FW,MF",1.eng Tottenham,"Chuncheon, Korea Republic",1992-07-08,30-135,4.0,360.0,0.0
+6,21.0,Cho Hyun-woo,GK,1.kr Ulsan Hyundai,"Seoul, Korea Republic",1991-09-25,31-056,0.0,,
+7,6.0,Hwang In-beom,MF,1.gr Olympiacos,Korea Republic,1996-09-20,26-061,4.0,334.0,0.0
+8,10.0,Lee Jae-sung,"MF,FW",1.de Mainz 05,Korea Republic,1992-08-10,30-102,3.0,211.0,0.0
+9,3.0,Kim Jin-su,DF,1.kr Jeonbuk,"Jeonju, Korea Republic",1992-06-13,30-160,4.0,315.0,0.0
+10,2.0,Yoon Jong-gyu,"DF,MF",1.kr FC Seoul,"Pohang-si, Korea Republic",1998-03-20,24-245,0.0,,
+11,13.0,Son Jun-ho,"MF,DF",1.cn Shandong Lunen,"Yeongdeok-gun, Korea Republic",1992-05-12,30-192,3.0,72.0,0.0
+12,18.0,Lee Kangin,"MF,FW",1.es Mallorca,Korea Republic,2001-02-19,21-274,4.0,147.0,0.0
+13,20.0,Kwon Kyung-won,DF,1.jp Gamba Osaka,"Seoul, Korea Republic",1992-01-31,30-293,2.0,91.0,0.0
+14,4.0,Kim Min-jae,DF,1.it Napoli,"Tongyeong, Korea Republic",1996-11-15,26-005,3.0,269.0,0.0
+15,26.0,Song Minkyu,"FW,MF",1.kr Jeonbuk,"Nonsan, Korea Republic",1999-09-12,23-069,0.0,,
+16,15.0,Kim Moonhwan,DF,1.kr Jeonbuk,"Hwaseong-si, Korea Republic",1995-08-01,27-111,4.0,360.0,0.0
+17,17.0,Na Sang-ho,FW,1.kr FC Seoul,"Damyang, Korea Republic",1996-08-12,26-100,2.0,119.0,0.0
+18,1.0,Kim Seung-gyu,GK,1.sa Al-Shabab,Korea Republic,1990-09-30,32-051,4.0,360.0,0.0
+19,8.0,Paik Seung-ho,MF,1.kr Jeonbuk,"Seoul, Korea Republic",1997-03-17,25-248,1.0,26.0,1.0
+20,23.0,Kim Tae-hwan,"DF,MF",1.kr Ulsan Hyundai,"Gwangju, Korea Republic",1989-07-24,33-119,0.0,,
+21,16.0,Hwang Ui-jo,"FW,MF",1.gr Olympiacos,"Seongnam-si, Korea Republic",1992-08-28,30-084,4.0,106.0,0.0
+22,25.0,Jeong Woo-yeong,MF,1.de Freiburg,Korea Republic,1999-09-20,23-061,1.0,45.0,0.0
+23,5.0,Jung Woo-young,MF,1.qa Al Sadd SC,Korea Republic,1989-12-14,32-341,4.0,303.0,0.0
+24,19.0,Kim Young-gwon,DF,1.kr Ulsan Hyundai,"Jeonju, Korea Republic",1990-02-27,32-266,4.0,350.0,1.0
+25,24.0,Cho Yumin,FW,2.kr Daejeon Citizen FC,Korea Republic,1996-11-17,26-003,1.0,1.0,0.0
+0,24.0,Karim Adeyemi,FW,1.de Dortmund,"München, Germany",2002-01-18,20-306,0.0,,
+1,25.0,Armel Bella Kotchap,DF,1.eng Southampton,"Paris, France",2001-12-11,20-344,0.0,,
+2,17.0,Julian Brandt,"FW,MF",1.de Dortmund,"Bremen, Germany",1996-05-02,26-202,0.0,,
+3,9.0,Niclas Füllkrug,FW,1.de Werder Bremen,"Hannover, Germany",1993-02-09,29-284,3.0,69.0,2.0
+4,4.0,Matthias Ginter,DF,1.de Freiburg,"Freiburg, Germany",1994-01-19,28-305,1.0,1.0,0.0
+5,10.0,Serge Gnabry,"FW,MF",1.de Bayern Munich,"Stuttgart, Germany",1995-07-14,27-129,3.0,263.0,1.0
+6,8.0,Leon Goretzka,MF,1.de Bayern Munich,"Bochum, Germany",1995-02-06,27-287,3.0,159.0,0.0
+7,11.0,Mario Götze,MF,1.de Eint Frankfurt,"Memmingen, Germany",1992-06-03,30-170,2.0,36.0,0.0
+8,21.0,İlkay Gündoğan,MF,1.eng Manchester City,"Gelsenkirchen, Germany",1990-10-24,32-027,3.0,189.0,1.0
+9,20.0,Christian Günter,"DF,MF",1.de Freiburg,"Villingen-Schwenningen, Germany",1993-02-28,29-265,0.0,,
+10,7.0,Kai Havertz,FW,1.eng Chelsea,"Aachen, Germany",1999-06-11,23-162,2.0,102.0,2.0
+11,18.0,Jonas Hofmann,FW,1.de M'Gladbach,"Heidelberg, Germany",1992-07-14,30-129,2.0,30.0,0.0
+12,5.0,Thilo Kehrer,DF,1.eng West Ham,"Tübingen, Germany",1996-09-21,26-060,1.0,69.0,0.0
+13,6.0,Joshua Kimmich,"MF,DF",1.de Bayern Munich,"Rottweil, Germany",1995-02-08,27-285,3.0,270.0,0.0
+14,16.0,Lukas Klostermann,DF,1.de RB Leipzig,"Herdecke, Germany",1996-06-03,26-170,2.0,66.0,0.0
+15,26.0,Youssoufa Moukoko,FW,1.de Dortmund,"Yaoundé, Cameroon",2004-11-20,18-000,1.0,1.0,0.0
+16,13.0,Thomas Müller,"FW,MF",1.de Bayern Munich,"Weilheim, Germany",1989-09-13,33-068,3.0,201.0,0.0
+17,14.0,Jamal Musiala,"MF,FW",1.de Bayern Munich,"Stuttgart, Germany",2003-02-26,19-267,3.0,258.0,0.0
+18,1.0,Manuel Neuer,GK,1.de Bayern Munich,"Gelsenkirchen, Germany",1986-03-27,36-238,3.0,270.0,0.0
+19,3.0,David Raum,DF,1.de RB Leipzig,"Nürnberg, Germany",1998-04-22,24-212,3.0,242.0,0.0
+20,2.0,Antonio Rüdiger,DF,1.es Real Madrid,"Berlin, Germany",1993-03-03,29-262,3.0,270.0,0.0
+21,19.0,Leroy Sané,"FW,DF",1.de Bayern Munich,"Essen, Germany",1996-01-11,26-313,2.0,111.0,0.0
+22,23.0,Nico Schlotterbeck,DF,1.de Dortmund,"Waiblingen, Germany",1999-12-01,22-354,2.0,94.0,0.0
+23,15.0,Niklas Süle,DF,1.de Dortmund,"Frankfurt am Main, Germany",1995-09-03,27-078,3.0,269.0,0.0
+24,22.0,Marc-André ter Stegen,GK,1.es Barcelona,"Mönchengladbach, Germany",1992-04-30,30-204,0.0,,
+25,12.0,Kevin Trapp,GK,1.de Eint Frankfurt,"Merzig, Germany",1990-07-08,32-135,0.0,,
+0,4.0,Robert Arboleda,DF,1.br São Paulo,"Esmeraldas, Ecuador",1991-10-22,31-029,0.0,,
+1,14.0,Xavier Arreaga,DF,1.us Seattle,"Guayaquil, Ecuador",1994-09-28,28-053,0.0,,
+2,23.0,Moisés Caicedo,MF,1.eng Brighton,"Santo Domingo de los Colorados, Ecuador",2001-11-02,21-018,3.0,269.0,1.0
+3,5.0,José Cifuentes,MF,1.us Los Angeles FC,"Esmeraldas, Ecuador",1999-03-12,23-253,2.0,59.0,0.0
+4,22.0,Alexander Domínguez,GK,1.ec LDU de Quito,"Esmeraldas, Ecuador",1987-06-05,35-168,0.0,,
+5,11.0,Michael Estrada,FW,1.mx Cruz Azul,"Guayaquil, Ecuador",1996-04-07,26-227,3.0,225.0,0.0
+6,7.0,Pervis Estupiñán,DF,1.eng Brighton,"Esmeraldas, Ecuador",1998-01-21,24-303,3.0,270.0,0.0
+7,21.0,Alan Franco,MF,1.ar Talleres,"Alfredo Baquerizo Moreno, Ecuador",1998-08-21,24-091,2.0,46.0,0.0
+8,1.0,Hernán Galíndez,GK,1.ec SD Aucas,"Rosario, Argentina",1987-03-30,35-235,3.0,270.0,0.0
+9,8.0,Carlos Gruezo,MF,1.de Augsburg,"Santo Domingo de los Colorados, Ecuador",1995-04-19,27-215,1.0,45.0,0.0
+10,3.0,Piero Hincapié,DF,1.de Leverkusen,"Esmeraldas, Ecuador",2002-01-09,20-315,3.0,270.0,0.0
+11,10.0,Romario Ibarra,MF,1.mx Pachuca,"Atuntaqui, Ecuador",1994-09-24,28-057,2.0,68.0,0.0
+12,26.0,Kevin Jauch,FW,2.ec CA Santo Domingo,"Tulcán, Ecuador",1992-11-24,29-361,,,
+13,15.0,Ángel Mena,"FW,MF",1.mx León,"Guayaquil, Ecuador",1988-01-21,34-303,0.0,,
+14,20.0,Jhegson Méndez,MF,1.us Los Angeles FC,"Mira, Ecuador",1997-04-26,25-208,2.0,180.0,0.0
+15,6.0,William Pacho,DF,1.be Antwerp,"Rosa Zarate, Ecuador",2001-10-16,21-035,0.0,,
+16,18.0,Diego Palacios,DF,1.us Los Angeles FC,"Guayaquil, Ecuador",1999-07-12,23-131,0.0,,
+17,19.0,Gonzalo Plata,"MF,FW",1.es Valladolid,"Guayaquil, Ecuador",2000-11-01,22-019,3.0,269.0,0.0
+18,25.0,Jackson Porozo,DF,1.fr Troyes,"San Lorenzo, Ecuador",2000-08-04,22-108,2.0,96.0,0.0
+19,17.0,Ángelo Preciado,DF,1.be Genk,"Shushufindi, Ecuador",1998-02-18,24-275,3.0,264.0,0.0
+20,9.0,Ayrton Preciado,MF,1.mx Santos,"Esmeraldas, Ecuador",1994-07-17,28-126,0.0,,
+21,12.0,Moisés Ramírez,GK,1.ec Independiente,"Guayaquil, Ecuador",2000-09-09,22-072,0.0,,
+22,24.0,Djorkaeff Reasco,FW,1.ar Newell's OB,"Quito, Ecuador",1999-01-18,23-306,1.0,27.0,0.0
+23,16.0,Jeremy Sarmiento,"MF,FW",1.eng Brighton,"Madrid, Spain",2002-06-16,20-157,3.0,85.0,0.0
+24,2.0,Félix Torres Caicedo,DF,1.mx Santos,"San Lorenzo, Ecuador",1997-01-11,25-313,3.0,270.0,0.0
+25,13.0,Enner Valencia,"FW,MF",1.tr Fenerbahçe,"San Lorenzo, Ecuador",1989-11-04,33-016,3.0,255.0,3.0
+0,10.0,Vincent Aboubakar,FW,1.sa Al-Nassr,"Yaoundé, Cameroon",1992-01-22,30-302,3.0,142.0,2.0
+1,11.0,Christian Bassogog,MF,1.cn Shanghai Shen,"Douala, Cameroon",1995-10-18,27-033,1.0,24.0,0.0
+2,21.0,Jean-Charles Castelletto,DF,1.fr Nantes,"Clamart, France",1995-01-26,27-298,2.0,180.0,1.0
+3,24.0,Enzo Ebosse,DF,1.it Udinese,"Amiens, France",1999-03-11,23-254,1.0,90.0,0.0
+4,16.0,Devis Epassy,GK,1.sa Abha,"Soisy-sous-Montmorency, France",1993-02-02,29-291,2.0,180.0,0.0
+5,19.0,Collins Fai,DF,1.sa Al-Ta'ee,"Bamenda, Cameroon",1992-08-13,30-099,3.0,270.0,0.0
+6,18.0,Martin Hongla,MF,1.it Hellas Verona,"Yaoundé, Cameroon",1998-03-16,24-249,2.0,121.0,0.0
+7,15.0,Pierre Kunde,MF,1.gr Olympiacos,"Limbe, Cameroon",1995-07-26,27-117,2.0,131.0,0.0
+8,13.0,Eric Maxim Choupo-Moting,"FW,MF",1.de Bayern Munich,"Hamburg, Germany",1989-03-23,33-242,3.0,253.0,1.0
+9,17.0,Olivier Mbaizo,DF,1.us Philadelphia,"Douala, Cameroon",1997-08-15,25-097,0.0,,
+10,20.0,Bryan Mbeumo,"FW,MF",1.eng Brentford,"Avallon, France",1999-08-07,23-105,3.0,233.0,0.0
+11,7.0,Georges-Kévin N'Koudou,"FW,MF",1.tr Beşiktaş,"Versailles, France",1995-02-13,27-280,2.0,27.0,0.0
+12,6.0,Moumi Ngamaleu,"FW,MF",1.ru Dynamo Mosc,"Yaoundé, Cameroon",1994-07-09,28-134,2.0,95.0,0.0
+13,1.0,Simon Ngapandouetnbu,GK,1.fr Marseille,"Foumban, Cameroon",2003-04-12,19-222,0.0,,
+14,2.0,Jerome Ngom Mbekeli,MF,1.cm Colombe Sportive du Dja et Lobo,"Yaoundé, Cameroon",1998-09-30,24-051,1.0,5.0,0.0
+15,3.0,Nicolas Nkoulou,DF,1.gr Aris,"Yaoundé, Cameroon",1990-03-27,32-238,2.0,180.0,0.0
+16,9.0,Jean-Pierre Nsame,FW,1.ch Young Boys,"Douala, Cameroon",1993-05-01,29-203,0.0,,
+17,22.0,Olivier Ntcham,MF,2.eng Swansea City,"Longjumeau, France",1996-02-09,26-284,1.0,25.0,0.0
+18,23.0,André Onana,GK,1.it Inter,"Mefou-et-Akono, Cameroon",1996-04-02,26-232,1.0,80.0,0.0
+19,5.0,Gaël Ondoua,MF,2.de Hannover 96,"Yaoundé, Cameroon",1995-11-04,27-016,2.0,47.0,0.0
+20,14.0,Samuel Oum Gouet,MF,1.be Mechelen,"Ayos, Cameroon",1997-12-13,24-342,2.0,100.0,0.0
+21,26.0,Marou Souaibou,FW,1.cm Coton Sport FC de Garoua,"Garoua, Cameroon",2000-12-03,21-352,0.0,,
+22,12.0,Karl Toko Ekambi,"FW,MF",1.fr Lyon,"Paris, France",1992-09-14,30-067,3.0,166.0,0.0
+23,25.0,Nouhou Tolo,DF,1.us Seattle,"Douala, Cameroon",1997-06-23,25-150,3.0,270.0,0.0
+24,4.0,Christopher Wooh,DF,1.fr Rennes,"Louvres, France",2001-09-18,21-063,1.0,90.0,0.0
+25,8.0,Andre-Frank Zambo Anguissa,MF,1.it Napoli,"Yaoundé, Cameroon",1995-11-16,27-004,3.0,260.0,0.0
+0,,Ronald Araújo,DF,1.es Barcelona,"Rivera, Uruguay",1999-03-07,23-258,,,
+1,26.0,José Luis Rodríguez Bebanz,DF,1.uy Nacional,"Canelones, Uruguay",1997-03-14,25-251,0.0,,
+2,6.0,Rodrigo Bentancur,MF,1.eng Tottenham,"Colonia del Sacramento, Uruguay",1997-06-25,25-148,3.0,213.0,0.0
+3,22.0,Martín Cáceres,DF,1.us LA Galaxy,"Montevideo, Uruguay",1987-04-07,35-227,1.0,90.0,0.0
+4,24.0,Agustín Canobbio,MF,1.br Atl Paranaense,"Montevideo, Uruguay",1998-10-01,24-050,1.0,11.0,0.0
+5,21.0,Edinson Cavani,FW,1.es Valencia,"Salto, Uruguay",1987-02-14,35-279,3.0,124.0,0.0
+6,19.0,Sebastián Coates,DF,1.pt Sporting CP,"Montevideo, Uruguay",1990-10-07,32-044,2.0,180.0,0.0
+7,10.0,Giorgian De Arrascaeta,MF,1.br Flamengo,"Nuevo Berlín, Uruguay",1994-06-01,28-172,2.0,108.0,2.0
+8,7.0,Nicolás De La Cruz,MF,1.ar River Plate,"Montevideo, Uruguay",1997-06-01,25-172,2.0,38.0,0.0
+9,3.0,Diego Godín,DF,1.ar Vélez Sarsf,"Rosario, Uruguay",1986-02-16,36-277,2.0,151.0,0.0
+10,18.0,Maxi Gómez,FW,1.tr Trabzonspor,"Paysandú, Uruguay",1996-08-14,26-098,2.0,30.0,0.0
+11,2.0,José María Giménez,DF,1.es Atlético Madrid,"Toledo, Uruguay",1995-01-20,27-304,3.0,270.0,0.0
+12,1.0,Fernando Muslera,GK,1.tr Galatasaray,"Buenos Aires, Argentina",1986-06-16,36-157,0.0,,
+13,11.0,Darwin Núñez,FW,1.eng Liverpool,"Artigas, Uruguay",1999-06-24,23-149,3.0,240.0,0.0
+14,16.0,Mathías Olivera,DF,1.it Napoli,"Montevideo, Uruguay",1997-10-31,25-020,3.0,253.0,0.0
+15,8.0,Facundo Pellistri,"MF,FW",1.eng Manchester Utd,"Uruguay, Uruguay",2001-12-20,20-335,3.0,181.0,0.0
+16,23.0,Sergio Rochet,GK,1.uy Nacional,"Nueva Palmira, Uruguay",1993-03-23,29-242,3.0,270.0,0.0
+17,12.0,Sebastián Sosa,GK,1.ar Independiente,"Montevideo, Uruguay",1986-08-19,36-093,0.0,,
+18,9.0,Luis Suárez,FW,1.uy Nacional,"Salto, Uruguay",1987-01-24,35-300,3.0,146.0,0.0
+19,14.0,Lucas Torreira,MF,1.tr Galatasaray,"Fray Bentos, Uruguay",1996-02-11,26-282,0.0,,
+20,20.0,Facundo Torres,"FW,MF",1.us Orlando City,"Montevideo, Uruguay",2000-04-13,22-221,0.0,,
+21,25.0,Manuel Ugarte Ribeiro,MF,1.pt Sporting CP,"Montevideo, Uruguay",2001-04-11,21-223,0.0,,
+22,15.0,Federico Valverde,MF,1.es Real Madrid,"Montevideo, Uruguay",1998-07-22,24-121,3.0,270.0,0.0
+23,13.0,Guillermo Varela,DF,1.br Flamengo,"Montevideo, Uruguay",1993-03-24,29-241,3.0,183.0,0.0
+24,5.0,Matías Vecino,MF,1.it Lazio,"Canelones, Uruguay",1991-08-24,31-088,3.0,195.0,0.0
+25,17.0,Matías Viña,DF,1.it Roma,"Empalme Olmos, Uruguay",1997-11-09,25-011,2.0,17.0,0.0
+0,24.0,Ali Abdi,DF,2.fr Caen,"Sfax, Tunisia",1993-12-20,28-335,3.0,188.0,0.0
+1,22.0,Bechir Ben Saïd,GK,1.tn US Monastir,"Gabès, Tunisia",1992-11-29,29-356,0.0,,
+2,25.0,Anis Ben Slimane,MF,1.dk Brøndby,"Copenhagen, Denmark",2001-03-16,21-249,2.0,148.0,0.0
+3,6.0,Dylan Bronn,DF,1.it Salernitana,"Cannes, France",1995-06-19,27-154,2.0,162.0,0.0
+4,18.0,Ghaylène Chaalali,MF,1.tn Espérance de Tunis,"Manouba, Tunisia",1994-02-28,28-265,1.0,17.0,0.0
+5,16.0,Aimen Dahmen,GK,1.tn CS Sfaxien,"Sfax, Tunisia",1997-01-28,25-296,3.0,270.0,0.0
+6,20.0,Mohamed Dräger,DF,1.ch Luzern,"Freiburg, Germany",1996-06-25,26-148,2.0,132.0,0.0
+7,5.0,Nader Ghandri,DF,1.tn Club Africain,"Aubervilliers, France",1995-02-18,27-275,1.0,90.0,0.0
+8,26.0,Mouez Hassen,GK,1.tn Club Africain,"Fréjus, France",1995-03-05,27-260,0.0,,
+9,2.0,Bilel Ifa,DF,1.kw Kuwait SC,"Ariana, Tunisia",1990-03-09,32-256,0.0,,
+10,19.0,Seifeddine Jaziri,FW,1.eg Zamalek SC,"Délégation de la Médina, Tunisia",1993-02-12,29-281,0.0,,
+11,9.0,Issam Jebali,FW,1.dk Odense,"Medjez el Bab, Tunisia",1991-12-25,30-330,3.0,182.0,0.0
+12,21.0,Wajdi Kechrida,DF,1.gr Atromitos,"Nice, France",1995-11-05,27-015,3.0,111.0,0.0
+13,10.0,Wahbi Khazri,"FW,MF",1.fr Montpellier,"Ajaccio, France",1991-02-08,31-285,2.0,83.0,1.0
+14,14.0,Aïssa Laïdouni,MF,1.hu Ferencváros,"Montfermeil, France",1996-12-13,25-342,3.0,243.0,0.0
+15,12.0,Ali Maâloul,DF,1.eg Al Ahly SC,"Sfax, Tunisia",1990-01-01,32-323,1.0,90.0,0.0
+16,1.0,Aymen Mathlouthi,GK,1.tn Étoile du Sahel,"Tunis, Tunisia",1984-09-14,38-067,0.0,,
+17,8.0,Hannibal Mejbri,MF,2.eng Birmingham City,"Ivry-sur-Seine, France",2003-01-21,19-303,1.0,11.0,0.0
+18,4.0,Yassine Meriah,DF,1.tn Espérance de Tunis,"Tunis, Tunisia",1993-07-02,29-141,3.0,270.0,0.0
+19,7.0,Youssef Msakni,"MF,FW",1.qa Al-Arabi SC,"Tunis, Tunisia",1990-10-28,32-023,2.0,169.0,0.0
+20,15.0,Mohamed Ali Ben Romdhane,MF,1.tn Espérance de Tunis,"Tunis, Tunisia",1999-09-06,23-075,1.0,73.0,0.0
+21,13.0,Ferjani Sassi,"MF,DF",1.qa Al Duhail SC,"Ariana, Tunisia",1992-03-18,30-247,2.0,48.0,0.0
+22,17.0,Ellyes Skhiri,MF,1.de Köln,"Lunel, France",1995-05-10,27-194,3.0,270.0,0.0
+23,23.0,Naïm Sliti,"MF,FW",1.sa Al-Ettifaq,"Marseille, France",1992-07-27,30-116,2.0,114.0,0.0
+24,3.0,Montassar Talbi,DF,1.fr Lorient,"Paris, France",1998-05-26,24-178,3.0,270.0,0.0
+25,11.0,Taha Yassine Khenissi,FW,1.kw Kuwait SC,"Zarzis, Tunisia",1992-01-06,30-318,2.0,29.0,0.0
+0,25.0,Roberto Alvarado,FW,1.mx Guadalajara,"Salamanca, Estado de Guanajuato, Mexico",1998-09-07,24-074,1.0,18.0,0.0
+1,4.0,Edson Álvarez,MF,1.nl Ajax,"Tlalnepantla de Baz, Estado de México, Mexico",1997-10-24,25-027,2.0,175.0,0.0
+2,26.0,Kevin Álvarez,DF,1.mx Pachuca,"Colima, Estado de Colima, Mexico",1999-01-15,23-309,2.0,70.0,0.0
+3,21.0,Uriel Antuna,"FW,MF",1.mx Cruz Azul,"Gómez Palacio, Estado de Durango, Mexico",1997-08-21,25-091,3.0,77.0,0.0
+4,2.0,Néstor Araujo,DF,1.mx América,"Guadalajara, Estado de Jalisco, Mexico",1991-08-29,31-083,1.0,90.0,0.0
+5,6.0,Gerardo Arteaga,DF,1.be Genk,"Zapopan, Estado de Jalisco, Mexico",1998-09-07,24-074,0.0,,
+6,24.0,Luis Chávez,MF,1.mx Pachuca,"Cihuatlán, Estado de Jalisco, Mexico",1996-01-15,26-309,3.0,270.0,1.0
+7,12.0,Rodolfo Cota,GK,1.mx León,"Mazatlán, Estado de Sinaloa, Mexico",1987-07-03,35-140,0.0,,
+8,19.0,Jorge Eduardo Sánchez,DF,1.nl Ajax,"Torreón, Estado de Coahuila de Zaragoza, Mexico",1997-12-10,24-345,2.0,175.0,0.0
+9,11.0,Rogelio Funes Mori,FW,1.mx Monterrey,"Mendoza, Argentina",1991-03-05,31-260,1.0,5.0,0.0
+10,23.0,Jesús Gallardo,DF,1.mx Monterrey,"Cárdenas, Estado de Tabasco, Mexico",1994-08-15,28-097,3.0,270.0,0.0
+11,18.0,Andrés Guardado,MF,1.es Betis,"Guadalajara, Estado de Jalisco, Mexico",1986-09-28,36-053,1.0,41.0,0.0
+12,14.0,Erick Gutiérrez,MF,1.nl PSV Eindhoven,"Los Mochis, Estado de Sinaloa, Mexico",1995-06-15,27-158,1.0,49.0,0.0
+13,16.0,Héctor Herrera,MF,1.us Houston Dynamo,"Tijuana, Estado de Baja California, Mexico",1990-04-19,32-215,2.0,160.0,0.0
+14,9.0,Raúl Jiménez,FW,1.eng Wolves,"Tepeji del Río de Ocampo, Estado de Hidalgo, Mexico",1991-05-05,31-199,3.0,59.0,0.0
+15,22.0,Hirving Lozano,FW,1.it Napoli,"Mexico City, Ciudad de México, Mexico",1995-07-30,27-113,3.0,252.0,0.0
+16,20.0,Henry Martín,FW,1.mx América,"Mérida, Estado de Yucatán, Mexico",1992-11-18,30-002,2.0,146.0,1.0
+17,3.0,César Montes,DF,1.mx Monterrey,"Hermosillo, Estado de Sonora, Mexico",1997-02-24,25-269,3.0,270.0,0.0
+18,15.0,Héctor Moreno,DF,1.mx Monterrey,"Culiacán, Estado de Sinaloa, Mexico",1988-01-17,34-307,3.0,270.0,0.0
+19,13.0,Guillermo Ochoa,GK,1.mx América,"Guadalajara, Estado de Jalisco, Mexico",1985-07-13,37-130,3.0,270.0,0.0
+20,17.0,Orbelín Pineda,MF,1.gr AEK Athens,"Coyuca de Catalán, Estado de Guerrero, Mexico",1996-03-24,26-241,1.0,76.0,0.0
+21,8.0,Charly Rodríguez,MF,1.mx Cruz Azul,"San Nicolás de los Garza, Estado de Nuevo León, Mexico",1997-01-03,25-321,2.0,34.0,0.0
+22,7.0,Luis Romo,"DF,MF",1.mx Monterrey,"Ahome, Estado de Sinaloa, Mexico",1995-06-05,27-168,0.0,,
+23,1.0,Alfredo Talavera,GK,1.mx FC Juárez,"La Barca, Estado de Jalisco, Mexico",1982-09-18,40-063,0.0,,
+24,5.0,Johan Vásquez,DF,1.it Cremonese,"Navojoa, Estado de Sonora, Mexico",1998-10-22,24-029,0.0,,
+25,10.0,Alexis Vega,FW,1.mx Guadalajara,"Cuauhtémoc, Ciudad de México, Mexico",1997-11-25,24-360,3.0,193.0,0.0
+0,2.0,Toby Alderweireld,DF,1.be Antwerp,"Wilrijk, Belgium",1989-03-02,33-263,3.0,270.0,0.0
+1,23.0,Michy Batshuayi,FW,1.tr Fenerbahçe,"Brussels, Belgium",1993-10-02,29-049,2.0,151.0,1.0
+2,11.0,Yannick Carrasco,"FW,DF",1.es Atlético Madrid,"Ixelles, Belgium",1993-09-04,29-077,2.0,116.0,0.0
+3,21.0,Timothy Castagne,DF,1.eng Leicester City,"Arlon, Belgium",1995-12-05,26-350,3.0,270.0,0.0
+4,13.0,Koen Casteels,GK,1.de Wolfsburg,"Bonheiden, Belgium",1992-06-25,30-148,0.0,,
+5,1.0,Thibaut Courtois,GK,1.es Real Madrid,"Bree, Belgium",1992-05-11,30-193,3.0,270.0,0.0
+6,7.0,Kevin De Bruyne,"FW,MF",1.eng Manchester City,"Gent, Belgium",1991-06-28,31-145,3.0,270.0,0.0
+7,22.0,Charles De Ketelaere,FW,1.it Milan,"Brugge, Belgium",2001-03-10,21-255,1.0,16.0,0.0
+8,26.0,Zeno Debast,DF,1.be Anderlecht,"Halle, Belgium",2003-10-24,19-027,0.0,,
+9,19.0,Leander Dendoncker,"DF,MF",1.eng Aston Villa,"Passendale, Belgium",1995-04-15,27-219,2.0,161.0,0.0
+10,25.0,Jeremy Doku,"MF,FW",1.fr Rennes,"Antwerpen, Belgium",2002-05-27,20-177,1.0,19.0,0.0
+11,4.0,Wout Faes,DF,1.eng Leicester City,"Mol, Belgium",1998-04-03,24-231,0.0,,
+12,10.0,Eden Hazard,MF,1.es Real Madrid,"La Louvière, Belgium",1991-01-07,31-317,3.0,124.0,0.0
+13,16.0,Thorgan Hazard,FW,1.de Dortmund,"La Louvière, Belgium",1993-03-29,29-236,2.0,106.0,0.0
+14,,Romelu Lukaku,FW,1.it Inter,"Antwerpen, Belgium",1993-05-13,29-191,2.0,55.0,0.0
+15,14.0,Dries Mertens,"MF,FW",1.tr Galatasaray,"Leuven, Belgium",1987-05-06,35-198,2.0,76.0,0.0
+16,15.0,Thomas Meunier,DF,1.de Dortmund,"Sainte-Ode, Belgium",1991-09-12,31-069,3.0,211.0,0.0
+17,12.0,Simon Mignolet,GK,1.be Club Brugge,"Sint-Truiden, Belgium",1988-03-06,34-259,0.0,,
+18,18.0,Amadou Onana,MF,1.eng Everton,"Brussels, Belgium",2001-08-16,21-096,2.0,104.0,0.0
+19,24.0,Loïs Openda,FW,1.fr Lens,"Liège, Belgium",2000-02-16,22-277,1.0,13.0,0.0
+20,3.0,Arthur Theate,DF,1.fr Rennes,"Liège, Belgium",2000-05-25,22-179,0.0,,
+21,8.0,Youri Tielemans,MF,1.eng Leicester City,"Sint-Pieters-Leeuw, Belgium",1997-05-07,25-197,3.0,95.0,0.0
+22,17.0,Leandro Trossard,"FW,MF",1.eng Brighton,"Maasmechelen, Belgium",1994-12-04,27-351,3.0,103.0,0.0
+23,20.0,Hans Vanaken,MF,1.be Club Brugge,"Neerpelt, Belgium",1992-08-24,30-088,0.0,,
+24,5.0,Jan Vertonghen,DF,1.be Anderlecht,"Sint-Niklaas, Belgium",1987-04-24,35-210,3.0,270.0,0.0
+25,6.0,Axel Witsel,MF,1.es Atlético Madrid,"Liège, Belgium",1989-01-12,33-312,3.0,270.0,0.0
+0,21.0,Salis Abdul Samed,MF,1.fr Lens,"Accra, Ghana",2000-03-26,22-239,3.0,250.0,0.0
+1,13.0,Daniel Afriyie Barnieh,FW,1.gh Accra Hearts of Oak SC,"Kumasi, Ghana",2001-06-26,21-147,0.0,,
+2,15.0,Joseph Aidoo,DF,1.es Celta Vigo,"Accra, Ghana",1995-09-29,27-052,0.0,,
+3,18.0,Daniel Amartey,DF,1.eng Leicester City,"Accra, Ghana",1994-12-21,27-334,3.0,251.0,0.0
+4,1.0,Lawrence Ati-Zigi,GK,1.ch St. Gallen,"Accra, Ghana",1996-11-29,25-356,3.0,270.0,0.0
+5,10.0,André Ayew,"MF,FW",1.qa Al Sadd SC,"Seclin, France",1989-12-17,32-338,3.0,198.0,1.0
+6,9.0,Jordan Ayew,FW,1.eng Crystal Palace,"Marseille, France",1991-09-11,31-070,3.0,136.0,0.0
+7,11.0,Osman Bukari,MF,1.rs Red Star,"Accra, Ghana",1998-12-13,23-342,2.0,59.0,1.0
+8,23.0,Alexander Djiku,"DF,FW",1.fr Strasbourg,"Montpellier, France",1994-08-09,28-103,2.0,97.0,0.0
+9,7.0,Abdul Fatawu Issahaku,FW,1.pt Sporting CP,"Tamale, Ghana",2004-03-08,18-257,1.0,1.0,0.0
+10,12.0,Danlad Ibrahim,GK,1.gh Asante Kotoko SC,"Accra, Ghana",2002-12-02,19-353,0.0,,
+11,8.0,Daniel Kyereh,"MF,DF",1.de Freiburg,"Accra, Ghana",1996-03-08,26-257,3.0,33.0,0.0
+12,2.0,Tariq Lamptey,DF,1.eng Brighton,"Hillingdon, England, United Kingdom",2000-09-30,22-051,2.0,102.0,0.0
+13,14.0,Gideon Mensah,DF,1.fr Auxerre,"Accra, Ghana",1998-07-18,24-125,1.0,87.0,0.0
+14,20.0,Kudus Mohammed,"FW,MF",1.nl Ajax,"Accra, Ghana",2000-08-02,22-110,3.0,247.0,2.0
+15,16.0,Manaf Nurudeen,GK,1.be Eupen,"Accra, Ghana",1999-02-08,23-285,0.0,,
+16,3.0,Denis Odoi,DF,1.be Club Brugge,"Leuven, Belgium",1988-05-27,34-177,1.0,13.0,0.0
+17,6.0,Elisha Owusu,MF,1.be Gent,"Montreuil, France",1997-11-07,25-013,0.0,,
+18,5.0,Thomas Partey,MF,1.eng Arsenal,"Odumase Krobo, Ghana",1993-06-13,29-160,3.0,270.0,0.0
+19,17.0,Baba Rahman,DF,2.eng Reading,"Tamale, Ghana",1994-07-02,28-141,3.0,183.0,0.0
+20,4.0,Mohammed Salisu,DF,1.eng Southampton,"Benin, Benin",1999-04-17,23-217,3.0,270.0,1.0
+21,26.0,Alidu Seidu,DF,1.fr Clermont Foot,"Accra, Ghana",2000-06-04,22-169,2.0,155.0,0.0
+22,25.0,Antoine Semenyo,"FW,MF",2.eng Bristol City,"London, England, United Kingdom",2000-01-07,22-317,2.0,20.0,0.0
+23,24.0,Kamal Sowah,"FW,MF",1.be Club Brugge,"Accra, Ghana",2000-01-09,22-315,0.0,,
+24,22.0,Kamaldeen Sulemana,FW,1.fr Rennes,"Techiman, Ghana",2002-02-15,20-278,2.0,58.0,0.0
+25,19.0,Iñaki Williams,FW,1.es Athletic Club,"Bilbao, Spain",1994-06-15,28-158,3.0,270.0,0.0
+0,12.0,Saud Abdulhamid,"DF,MF",1.sa Al-Hilal,"Jiddah, Saudi Arabia",1999-07-18,23-125,3.0,270.0,0.0
+1,18.0,Nawaf Al Abed,MF,1.sa Al-Shabab,"Riyadh, Saudi Arabia",1990-01-26,32-298,2.0,88.0,0.0
+2,20.0,Abdulrahman Al-Aboud,"MF,DF",1.sa Al-Ittihad,"Dammam, Saudi Arabia",1995-06-01,27-172,2.0,35.0,0.0
+3,4.0,Abdulelah Al-Amri,DF,1.sa Al-Nassr,"Ta’if, Saudi Arabia",1997-01-15,25-309,3.0,182.0,0.0
+4,22.0,Nawaf Al Aqidi,GK,1.sa Al-Nassr,"Riyadh, Saudi Arabia",2000-05-10,22-194,0.0,,
+5,19.0,Hattan Bahebri,MF,1.sa Al-Shabab,"Jeddah, Saudi Arabia",1992-07-16,30-127,2.0,4.0,0.0
+6,6.0,Mohammed Al-Breik,DF,1.sa Al-Hilal,"Mecca, Saudi Arabia",1992-09-15,30-066,2.0,65.0,0.0
+7,5.0,Ali Al-Bulaihi,DF,1.sa Al-Hilal,"Najrān, Saudi Arabia",1989-11-21,32-364,3.0,216.0,0.0
+8,9.0,Firas Al-Buraikan,"MF,FW",1.sa Al-Fateh,"Riyadh, Saudi Arabia",2000-05-14,22-190,3.0,268.0,0.0
+9,24.0,Nasser Al-Dawsari,FW,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1998-12-19,23-336,1.0,5.0,0.0
+10,10.0,Salem Al-Dawsari,MF,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1991-08-19,31-093,3.0,270.0,2.0
+11,7.0,Salman Al-Faraj,MF,1.sa Al-Hilal,"Medina, Saudi Arabia",1989-08-01,33-111,1.0,44.0,0.0
+12,2.0,Sultan Al-Ghanam,"DF,MF",1.sa Al-Nassr,"Dayr ash Shi‘bah, Yemen",1994-05-06,28-198,3.0,126.0,0.0
+13,25.0,Asiri Haitham,FW,2.sa Al-Ahli,"Muḩāyil, Saudi Arabia",2001-03-25,21-240,1.0,2.0,0.0
+14,15.0,Ali Al Hassan,MF,1.sa Al-Nassr,"Al Hufūf, Saudi Arabia",1997-03-04,25-261,1.0,45.0,0.0
+15,23.0,Mohamed Kanno,"MF,FW",1.sa Al-Hilal,"Khobar, Saudi Arabia",1994-09-22,28-059,3.0,270.0,0.0
+16,3.0,Abdullah Madu,"DF,MF",1.sa Al-Nassr,"Mecca, Saudi Arabia",1993-07-15,29-128,1.0,45.0,0.0
+17,8.0,Abdulellah Al-Malki,MF,1.sa Al-Hilal,"Mecca, Saudi Arabia",1994-10-11,28-040,2.0,174.0,0.0
+18,16.0,Sami Al-Najei,MF,1.sa Al-Nassr,"Jizan, Saudi Arabia",1997-02-07,25-286,1.0,45.0,0.0
+19,14.0,Abdullah Otayf,MF,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1992-08-03,30-109,0.0,,
+20,21.0,Mohammed Al-Owais,GK,1.sa Al-Hilal,"Al Hufūf, Saudi Arabia",1991-10-10,31-041,3.0,270.0,0.0
+21,13.0,Yasser Al-Shahrani,DF,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1992-05-25,30-179,1.0,89.0,0.0
+22,,Riyadh Sharahili,MF,1.sa Abha,"Riyadh, Saudi Arabia",1993-04-28,29-206,1.0,54.0,0.0
+23,11.0,Saleh Al-Shehri,FW,1.sa Al-Hilal,"Jeddah, Saudi Arabia",1993-11-01,29-019,3.0,223.0,1.0
+24,17.0,Hassan Al Tambakti,DF,1.sa Al-Shabab,"Riyadh, Saudi Arabia",1999-02-09,23-284,2.0,180.0,0.0
+25,1.0,Mohammed Al Yami,GK,2.sa Al-Ahli,"Najrān, Saudi Arabia",1997-08-14,25-098,0.0,,
+0,22.0,Amir Abedzadeh,GK,2.es Ponferradina,"Tehran, Iran",1993-04-26,29-208,0.0,,
+1,11.0,Vahid Amiri,"FW,MF",1.ir Persepolis,"Khorramabad, Iran",1988-04-02,34-232,0.0,,
+2,10.0,Karim Ansarifard,"FW,MF",1.cy AC Omonia,"Ardabīl, Iran",1990-04-03,32-231,2.0,35.0,0.0
+3,20.0,Sardar Azmoun,FW,1.de Leverkusen,"Gonbad-e Kāvūs, Iran",1995-01-01,27-323,3.0,126.0,0.0
+4,1.0,Alireza Beiranvand,GK,1.ir Persepolis,"Khorramabad, Iran",1992-09-21,30-060,2.0,109.0,0.0
+5,15.0,Roozbeh Cheshmi,"DF,MF",1.ir Esteghlal,"Tehran, Iran",1993-07-24,29-119,2.0,58.0,1.0
+6,6.0,Saeid Ezatolahi,MF,2.dk Vejle BK,"Bandar-e Anzalī, Iran",1996-10-01,26-050,3.0,217.0,0.0
+7,14.0,Saman Ghoddos,MF,1.eng Brentford,"Malmö, Sweden",1993-09-06,29-075,1.0,45.0,0.0
+8,17.0,Ali Gholizadeh,"MF,FW",1.be Charleroi,"Tehran, Iran",1996-03-10,26-255,3.0,199.0,0.0
+9,3.0,Ehsan Hajsafi,"MF,DF",1.gr AEK Athens,"Kāshān, Iran",1990-02-25,32-268,3.0,237.0,0.0
+10,24.0,Hossein Hosseini,GK,1.ir Esteghlal,"Shiraz, Iran",1992-06-30,30-143,2.0,161.0,0.0
+11,19.0,Majid Hosseini,DF,1.tr Kayserispor,"Tehran, Iran",1996-06-20,26-153,3.0,270.0,0.0
+12,7.0,Alireza Jahanbakhsh,MF,1.nl Feyenoord,"Jīrandeh, Iran",1993-08-11,29-101,2.0,59.0,0.0
+13,25.0,Abolfazl Jalali,DF,1.ir Esteghlal,"Āmol, Iran",1998-06-26,24-147,1.0,19.0,0.0
+14,13.0,Hossein Kanaanizadegan,DF,1.qa Al Ahli SC,"Bandar-e Māhshahr, Iran",1994-03-23,28-242,1.0,45.0,0.0
+15,18.0,Ali Karimi,MF,1.tr Kayserispor,"Isfahan, Iran",1994-02-11,28-282,3.0,99.0,0.0
+16,4.0,Shoja' Khalilzadeh,DF,1.qa Al Ahli SC,"Bahnemīr, Iran",1989-05-14,33-190,0.0,,
+17,5.0,Milad Mohammadi,DF,1.gr AEK Athens,"Tehran, Iran",1993-09-29,29-052,3.0,196.0,0.0
+18,2.0,Sadegh Moharrami,DF,1.hr Dinamo Zagreb,"Hashtpar, Iran",1996-03-01,26-264,1.0,90.0,0.0
+19,12.0,Payam Niazmand,GK,1.ir Sepahan,"Tehran, Iran",1995-04-06,27-228,0.0,,
+20,21.0,Ahmad Nourollahi,MF,1.ae Al-Ahli Dubai FC,"Āzādshahr, Iran",1993-02-02,29-291,3.0,223.0,0.0
+21,8.0,Morteza Pouraliganji,DF,1.ir Persepolis,"Bābol, Iran",1992-04-19,30-215,3.0,270.0,0.0
+22,23.0,Ramin Rezaeian,DF,1.ir Sepahan,"Sarī, Iran",1990-03-21,32-244,2.0,180.0,1.0
+23,9.0,Mehdi Taremi,FW,1.pt Porto,"Karaj, Iran",1992-07-18,30-125,3.0,270.0,2.0
+24,16.0,Mehdi Torabi,MF,1.ir Persepolis,"Eshtehārd, Iran",1994-09-10,28-071,3.0,62.0,0.0
+0,20.0,Brandon Aguilera,MF,1.cr Asociación Deportiva Guanacasteca,"Naranjo, Costa Rica",2003-06-28,19-145,3.0,90.0,0.0
+1,18.0,Esteban Alvarado,GK,1.cr Club Sport Herediano,"Siquirres, Costa Rica",1989-04-28,33-206,0.0,,
+2,9.0,Jewison Bennette,MF,2.eng Sunderland,"Heredia, Costa Rica",2004-06-15,18-158,3.0,103.0,0.0
+3,5.0,Celso Borges,MF,1.cr Liga Deportiva Alajuelense,"San José, Costa Rica",1988-05-27,34-177,3.0,249.0,0.0
+4,15.0,Francisco Calvo,DF,1.tr Konyaspor,"San José, Costa Rica",1992-07-08,30-135,2.0,180.0,0.0
+5,12.0,Joel Campbell,"FW,MF",1.mx León,"San José, Costa Rica",1992-06-26,30-147,3.0,269.0,0.0
+6,2.0,Daniel Chacón,MF,1.cr CS Cartaginés,"Turrialba, Costa Rica",2001-04-11,21-223,1.0,1.0,0.0
+7,7.0,Anthony Contreras,"FW,MF",1.cr Club Sport Herediano,"San José, Costa Rica",2000-01-29,22-295,3.0,125.0,0.0
+8,6.0,Óscar Duarte,DF,1.sa Al-Wehda,"Masaya, Nicaragua",1989-06-03,33-170,3.0,270.0,0.0
+9,4.0,Keysher Fuller,"DF,MF",1.cr Club Sport Herediano,"Limón, Costa Rica",1994-07-11,28-132,3.0,253.0,1.0
+10,25.0,Anthony Hernández,FW,1.cr Puntarenas FC,"Puntarenas, Costa Rica",2001-10-11,21-040,0.0,,
+11,21.0,Douglas López,MF,1.cr Club Sport Herediano,"Alajuela, Costa Rica",1998-09-21,24-060,0.0,,
+12,16.0,Carlos Martínez,DF,1.cr AD San Carlos,"Santa Ana, Costa Rica",1999-03-30,23-235,1.0,45.0,0.0
+13,22.0,Rónald Matarrita,"DF,MF",1.us FC Cincinnati,"San Ramón, Costa Rica",1994-07-09,28-134,2.0,26.0,0.0
+14,1.0,Keylor Navas,GK,1.fr Paris S-G,"San Isidro, Costa Rica",1986-12-15,35-340,3.0,270.0,0.0
+15,8.0,Bryan Oviedo,DF,1.us Real Salt Lake,"San José, Costa Rica",1990-02-18,32-275,3.0,260.0,0.0
+16,3.0,Juan Pablo Vargas,DF,1.co Millonarios,"Sarchí, Costa Rica",1995-06-06,27-167,1.0,90.0,1.0
+17,10.0,Bryan Ruiz,MF,1.cr Liga Deportiva Alajuelense,"San José, Costa Rica",1985-08-18,37-094,1.0,30.0,0.0
+18,14.0,Youstin Salas,"DF,MF",1.cr Deportivo Saprissa,"Cariari, Costa Rica",1996-06-17,26-156,2.0,47.0,0.0
+19,23.0,Patrick Sequeira,GK,2.es Lugo,"Limón, Costa Rica",1999-03-01,23-264,0.0,,
+20,17.0,Yeltsin Tejeda,MF,1.cr Club Sport Herediano,"Limón, Costa Rica",1992-03-17,30-248,3.0,269.0,1.0
+21,13.0,Gerson Torres,MF,1.cr Club Sport Herediano,Costa Rica,1997-08-28,25-084,1.0,64.0,0.0
+22,11.0,Johan Venegas,"FW,MF",1.cr Liga Deportiva Alajuelense,"Limón, Costa Rica",1988-11-27,33-358,1.0,73.0,0.0
+23,19.0,Kendall Waston,DF,1.cr Deportivo Saprissa,"San José, Costa Rica",1988-01-01,34-323,3.0,225.0,0.0
+24,24.0,Roan Wilson,MF,1.cr Municipal Grecia,"Limón, Costa Rica",2002-05-01,20-203,1.0,1.0,0.0
+25,26.0,Álvaro Zamora,MF,1.cr Deportivo Saprissa,"San José, Costa Rica",2002-03-09,20-256,1.0,30.0,0.0
+0,2.0,Joachim Andersen,DF,1.eng Crystal Palace,"Frederiksberg, Denmark",1996-05-31,26-173,3.0,270.0,0.0
+1,26.0,Alexander Bah,DF,1.pt Benfica,"Odense, Denmark",1997-12-09,24-346,2.0,46.0,0.0
+2,9.0,Martin Braithwaite,"FW,MF",1.es Espanyol,"Esbjerg, Denmark",1991-06-05,31-168,2.0,103.0,0.0
+3,6.0,Andreas Christensen,DF,1.es Barcelona,"Lillerød, Denmark",1996-04-10,26-224,3.0,270.0,1.0
+4,16.0,Oliver Christensen,GK,1.de Hertha BSC,"Kerteminde, Denmark",1999-03-22,23-243,0.0,,
+5,21.0,Andreas Cornelius,FW,1.dk FC Copenhagen,"Copenhagen, Denmark",1993-03-16,29-249,3.0,92.0,0.0
+6,14.0,Mikkel Damsgaard,"MF,FW",1.eng Brentford,"Jyllinge, Denmark",2000-07-03,22-140,3.0,150.0,0.0
+7,8.0,Thomas Delaney,MF,1.es Sevilla,"Frederiksberg, Denmark",1991-09-03,31-078,1.0,44.0,0.0
+8,12.0,Kasper Dolberg,FW,1.es Sevilla,"Silkeborg, Denmark",1997-10-06,25-045,3.0,114.0,0.0
+9,10.0,Christian Eriksen,MF,1.eng Manchester Utd,"Middelfart, Denmark",1992-02-14,30-279,3.0,270.0,0.0
+10,23.0,Pierre Højbjerg,MF,1.eng Tottenham,"Copenhagen, Denmark",1995-08-05,27-107,3.0,270.0,0.0
+11,7.0,Mathias Jensen,MF,1.eng Brentford,"Jerslev, Denmark",1996-01-01,26-323,2.0,84.0,0.0
+12,4.0,Simon Kjær,DF,1.it Milan,"Horsens, Denmark",1989-03-26,33-239,1.0,64.0,0.0
+13,25.0,Jesper Lindstrøm,"MF,FW",1.de Eint Frankfurt,"Taastrup, Denmark",2000-02-29,22-264,3.0,200.0,0.0
+14,5.0,Joakim Mæhle,DF,1.it Atalanta,"Østervrå, Denmark",1997-05-20,25-184,3.0,249.0,0.0
+15,3.0,Victor Nelsson,DF,1.tr Galatasaray,"Hornbæk, Denmark",1998-10-14,24-037,1.0,90.0,0.0
+16,13.0,Rasmus Nissen,DF,1.eng Leeds United,"Brande, Denmark",1997-07-11,25-132,3.0,224.0,0.0
+17,15.0,Christian Nørgaard,MF,1.eng Brentford,"Copenhagen, Denmark",1994-03-10,28-255,1.0,6.0,0.0
+18,20.0,Yussuf Poulsen,FW,1.de RB Leipzig,"Copenhagen, Denmark",1994-06-15,28-158,0.0,,
+19,22.0,Frederik Rønnow,GK,1.de Union Berlin,"Horsens, Denmark",1992-08-04,30-108,0.0,,
+20,1.0,Kasper Schmeichel,GK,1.fr Nice,"Copenhagen, Denmark",1986-11-05,36-015,3.0,270.0,0.0
+21,11.0,Andreas Skov Olsen,"FW,MF",1.be Club Brugge,"Hillerød, Denmark",1999-12-29,22-326,2.0,132.0,0.0
+22,24.0,Robert Skov,DF,1.de Hoffenheim,"Marbella, Spain",1996-05-20,26-184,1.0,22.0,0.0
+23,17.0,Jens Stryger Larsen,"DF,MF",1.tr Trabzonspor,"Sakskøbing, Denmark",1991-02-21,31-272,0.0,,
+24,18.0,Daniel Wass,"DF,MF",1.dk Brøndby,"Gladsaxe Municipality, Denmark",1989-05-31,33-173,0.0,,
+25,19.0,Jonas Wind,FW,1.de Wolfsburg,"Hvidovre, Denmark",1999-02-07,23-286,0.0,,
+0,15.0,Srđan Babić,DF,1.es Almería,"Banja Luka, Bosnia and Herzegovina",1996-04-22,26-212,1.0,13.0,0.0
+1,1.0,Marko Dmitrović,GK,1.es Sevilla,"Subotica, Serbia",1992-01-24,30-300,0.0,,
+2,3.0,Strahinja Eraković,DF,1.rs Red Star,"Batajnica, Serbia",2001-01-22,21-302,0.0,,
+3,26.0,Marko Grujić,MF,1.pt Porto,"Belgrade, Serbia",1996-04-13,26-221,1.0,13.0,0.0
+4,8.0,Nemanja Gudelj,"MF,DF",1.es Sevilla,"Belgrade, Serbia",1991-11-16,31-004,2.0,92.0,0.0
+5,24.0,Ivan Ilić,MF,1.it Hellas Verona,"Niš, Serbia",2001-03-17,21-248,1.0,34.0,0.0
+6,11.0,Luka Jović,FW,1.it Fiorentina,"Bijeljina, Bosnia and Herzegovina",1997-12-23,24-332,1.0,36.0,0.0
+7,17.0,Filip Kostić,DF,1.it Juventus,"Kragujevac, Serbia",1992-11-01,30-019,2.0,179.0,0.0
+8,22.0,Darko Lazović,DF,1.it Hellas Verona,"Čačak, Serbia",1990-09-15,32-066,1.0,25.0,0.0
+9,16.0,Saša Lukić,MF,1.it Torino,"Šabac, Serbia",1996-08-13,26-099,3.0,245.0,0.0
+10,6.0,Nemanja Maksimović,MF,1.es Getafe,"Belgrade, Serbia",1995-01-26,27-298,3.0,122.0,0.0
+11,4.0,Nikola Milenković,DF,1.it Fiorentina,"Belgrade, Serbia",1997-10-12,25-039,3.0,270.0,0.0
+12,20.0,Sergej Milinković-Savić,MF,1.it Lazio,"Lleida, Spain",1995-02-27,27-266,3.0,233.0,1.0
+13,23.0,Vanja Milinković-Savić,GK,1.it Torino,"Ourense, Spain",1997-02-20,25-273,3.0,270.0,0.0
+14,9.0,Aleksandar Mitrović,FW,1.eng Fulham,"Smederevo, Serbia",1994-09-16,28-065,3.0,262.0,2.0
+15,13.0,Stefan Mitrović,DF,1.es Getafe,"Belgrade, Serbia",1990-05-22,32-182,1.0,35.0,0.0
+16,25.0,Filip Mladenović,DF,1.pl Legia Warsaw,"Čačak, Serbia",1991-08-15,31-097,1.0,65.0,0.0
+17,2.0,Strahinja Pavlović,DF,1.at RB Salzburg,"Šabac, Serbia",2001-05-24,21-180,3.0,235.0,1.0
+18,19.0,Uroš Račić,MF,1.pt Braga,"Kraljevo, Serbia",1998-03-17,24-248,0.0,,
+19,7.0,Nemanja Radonjić,"DF,FW",1.it Torino,"Niš, Serbia",1996-02-15,26-278,3.0,60.0,0.0
+20,12.0,Predrag Rajković,GK,1.es Mallorca,"Negotin, Serbia",1995-10-31,27-020,0.0,,0.0
+21,10.0,Dušan Tadić,"MF,FW",1.nl Ajax,"Bačka Topola, Serbia",1988-11-20,34-000,3.0,257.0,0.0
+22,5.0,Miloš Veljković,DF,1.de Werder Bremen,"Belgrade, Serbia",1995-09-26,27-055,3.0,221.0,0.0
+23,18.0,Dušan Vlahović,FW,1.it Juventus,"Belgrade, Serbia",2000-01-28,22-296,2.0,79.0,1.0
+24,14.0,Andrija Živković,DF,1.gr PAOK,"Niš, Serbia",1996-07-11,26-132,3.0,210.0,0.0
+25,21.0,Filip Đuričić,"MF,FW",1.it Sampdoria,"Obrenovac, Serbia",1992-01-30,30-294,2.0,14.0,0.0
+0,7.0,Joe Allen,MF,2.eng Swansea City,"Carmarthen, Wales, United Kingdom",1990-03-14,32-251,2.0,94.0,0.0
+1,15.0,Ethan Ampadu,"MF,DF",1.it Spezia,"Exeter, England, United Kingdom",2000-09-14,22-067,3.0,255.0,0.0
+2,11.0,Gareth Bale,FW,1.us Los Angeles FC,"Cardiff, Wales, United Kingdom",1989-07-16,33-127,3.0,225.0,1.0
+3,24.0,Ben Cabango,DF,2.eng Swansea City,"Cardiff, Wales, United Kingdom",2000-05-30,22-174,0.0,,
+4,25.0,Rubin Colwill,MF,2.eng Cardiff City,"Neath, Wales, United Kingdom",2002-04-27,20-207,1.0,10.0,0.0
+5,21.0,Adam Davies,GK,2.eng Sheffield Utd,"Rinteln, Germany",1992-07-17,30-126,0.0,,
+6,4.0,Ben Davies,DF,1.eng Tottenham,"Neath, Wales, United Kingdom",1993-04-24,29-210,3.0,238.0,0.0
+7,2.0,Chris Gunter,"DF,MF",4.eng AFC Wimbledon,"Newport, Wales, United Kingdom",1989-07-21,33-122,0.0,,
+8,19.0,Mark Harris,FW,2.eng Cardiff City,"Swansea, Wales, United Kingdom",1998-12-29,23-326,0.0,,
+9,1.0,Wayne Hennessey,GK,1.eng Nott'ham Forest,"Bangor, Wales, United Kingdom",1987-01-24,35-300,2.0,175.0,0.0
+10,20.0,Daniel James,"FW,MF",1.eng Fulham,"Swansea, Wales, United Kingdom",1997-11-10,25-010,3.0,154.0,0.0
+11,9.0,Brennan Johnson,"FW,MF",1.eng Nott'ham Forest,"Nottingham, England, United Kingdom",2001-05-23,21-181,3.0,91.0,0.0
+12,23.0,Dylan Levitt,MF,1.sct Dundee United,"Bodelwyddan, Wales, United Kingdom",2000-11-17,22-003,0.0,,
+13,17.0,Tom Lockyer,"DF,MF",2.eng Luton Town,"Cardiff, Wales, United Kingdom",1994-12-03,27-352,0.0,,
+14,5.0,Chris Mepham,DF,1.eng Bournemouth,"Hammersmith, England, United Kingdom",1997-11-05,25-015,3.0,270.0,0.0
+15,13.0,Kieffer Moore,FW,1.eng Bournemouth,"Torquay, England, United Kingdom",1992-08-08,30-104,3.0,225.0,0.0
+16,16.0,Joe Morrell,MF,3.eng Portsmouth,"Ipswich, England, United Kingdom",1997-01-03,25-321,2.0,33.0,0.0
+17,10.0,Aaron Ramsey,MF,1.fr Nice,"Caerphilly, Wales, United Kingdom",1990-12-26,31-329,3.0,266.0,0.0
+18,14.0,Connor Roberts,DF,2.eng Burnley,"Neath, Wales, United Kingdom",1995-09-23,27-058,3.0,200.0,0.0
+19,6.0,Joe Rodon,DF,1.fr Rennes,"Swansea, Wales, United Kingdom",1997-10-22,25-029,3.0,270.0,0.0
+20,26.0,Matthew Smith,MF,3.eng MK Dons,"Redditch, England, United Kingdom",1999-11-22,22-363,0.0,,
+21,22.0,Sorba Thomas,MF,2.eng Huddersfield,"Newham, England, United Kingdom",1999-08-22,23-090,1.0,1.0,0.0
+22,12.0,Danny Ward,GK,1.eng Leicester City,"Wrexham, Wales, United Kingdom",1993-06-22,29-151,2.0,94.0,0.0
+23,18.0,Jonny Williams,"FW,MF",4.eng Swindon Town,"Pembury, England, United Kingdom",1993-10-09,29-042,0.0,,
+24,3.0,Neco Williams,DF,1.eng Nott'ham Forest,"Wrexham, Wales, United Kingdom",2001-04-13,21-221,3.0,204.0,0.0
+25,8.0,Harry Wilson,"MF,FW",1.eng Fulham,"Wrexham, Wales, United Kingdom",1997-03-22,25-243,3.0,160.0,0.0
+0,3.0,Sam Adekugbe,DF,1.tr Hatayspor,"London, England, United Kingdom",1995-01-16,27-308,3.0,95.0,0.0
+1,18.0,Milan Borjan,GK,1.rs Red Star,"Knin, Croatia",1987-10-23,35-028,3.0,270.0,0.0
+2,11.0,Tajon Buchanan,"MF,DF",1.be Club Brugge,"Brampton, ON, Canada",1999-02-08,23-285,3.0,260.0,0.0
+3,9.0,Lucas Cavallini,FW,1.us Vancouver,"Toronto, ON, Canada",1992-12-28,29-327,1.0,19.0,0.0
+4,25.0,Derek Cornelius,"DF,FW",1.gr Panetolikos,"Ajax, ON, Canada",1997-11-25,24-360,0.0,,
+5,20.0,Jonathan David,"FW,MF",1.fr Lille,"Brooklyn, NY, United States",2000-01-14,22-310,3.0,192.0,0.0
+6,19.0,Alphonso Davies,"MF,DF",1.de Bayern Munich,"Monrovia, Liberia",2000-11-02,22-018,3.0,270.0,1.0
+7,7.0,Stephen Eustáquio,MF,1.pt Porto,"Leamington, ON, Canada",1996-12-21,25-334,2.0,125.0,0.0
+8,8.0,Liam Fraser,MF,2.be KMSK Deinze,"Toronto, ON, Canada",1998-02-13,24-280,0.0,,
+9,10.0,Junior Hoilett,"FW,MF",2.eng Reading,"Brampton, ON, Canada",1990-06-05,32-168,3.0,161.0,0.0
+10,13.0,Atiba Hutchinson,MF,1.tr Beşiktaş,"Brampton, ON, Canada",1983-02-08,39-285,3.0,159.0,0.0
+11,2.0,Alistair Johnston,DF,1.us CF Montréal,"Vancouver, BC, Canada",1998-10-08,24-043,3.0,270.0,0.0
+12,14.0,Mark-Anthony Kaye,MF,1.us Toronto FC,"Toronto, ON, Canada",1994-12-02,27-353,1.0,59.0,0.0
+13,15.0,Ismaël Koné,"MF,DF",1.us CF Montréal,"Abidjan, Côte d'Ivoire",2002-06-06,20-167,3.0,109.0,0.0
+14,17.0,Cyle Larin,FW,1.be Club Brugge,"Brampton, ON, Canada",1995-04-17,27-217,3.0,137.0,0.0
+15,22.0,Richie Laryea,"DF,MF",1.us Toronto FC,"Toronto, ON, Canada",1995-01-07,27-317,3.0,160.0,0.0
+16,23.0,Liam Millar,DF,1.ch Basel,"Toronto, ON, Canada",1999-09-27,23-054,1.0,10.0,0.0
+17,4.0,Kamal Miller,DF,1.us CF Montréal,"Scarborough Village, ON, Canada",1997-05-16,25-188,3.0,270.0,0.0
+18,21.0,Jonathan Osorio,"MF,FW",1.us Toronto FC,"Toronto, ON, Canada",1992-06-12,30-161,3.0,119.0,0.0
+19,16.0,James Pantemis,GK,1.us CF Montréal,"Montréal, QC, Canada",1997-02-21,25-272,0.0,,
+20,6.0,Samuel Piette,MF,1.us CF Montréal,"Repentigny, QC, Canada",1994-11-12,28-008,0.0,,
+21,1.0,Dayne St. Clair,GK,1.us Minnesota Utd,"Pickering, ON, Canada",1997-05-09,25-195,0.0,,
+22,12.0,Ike Ugbo,FW,1.fr Troyes,"London, England, United Kingdom",1998-09-21,24-060,0.0,,
+23,5.0,Steven Vitória,DF,1.pt Chaves,"Toronto, ON, Canada",1987-01-11,35-313,3.0,270.0,0.0
+24,26.0,Joel Waterman,DF,1.us CF Montréal,"Langley, BC, Canada",1996-01-24,26-300,0.0,,
+25,24.0,David Wotherspoon,MF,1.sct St Johnstone,"Perth, Scotland, United Kingdom",1990-01-16,32-308,1.0,15.0,0.0
+0,11.0,Akram Afif,FW,1.qa Al Sadd SC,"Doha, Qatar",1996-11-18,26-002,3.0,270.0,0.0
+1,14.0,Homam Ahmed,DF,1.qa Al-Gharafa Sports Club,"Doha, Qatar",1999-08-25,23-087,3.0,262.0,0.0
+2,7.0,Ahmed Alaaeldin,FW,1.qa Al-Gharafa Sports Club,"Ismailia, Egypt",1993-01-31,29-293,1.0,6.0,0.0
+3,19.0,Almoez Ali,FW,1.qa Al Duhail SC,"Khartoum, Sudan",1996-08-19,26-093,3.0,224.0,0.0
+4,8.0,Ali Assadalla,MF,1.qa Al Sadd SC,"Manama, Bahrain",1993-01-19,29-305,1.0,27.0,0.0
+5,22.0,Meshaal Barsham,GK,1.qa Al Sadd SC,"Doha, Qatar",1998-02-14,24-279,2.0,180.0,0.0
+6,12.0,Karim Boudiaf,MF,1.qa Al Duhail SC,"Rouen, France",1990-09-16,32-065,3.0,185.0,0.0
+7,25.0,Jassem Gaber,DF,1.qa Al-Arabi SC,"Doha, Qatar",2002-02-20,20-273,0.0,,
+8,24.0,Naif Al-Hadhrami,MF,1.qa Al Rayyan SC,"Ar Rayyān, Qatar",2001-07-18,21-125,0.0,,
+9,20.0,Salem Al-Hajri,MF,1.qa Al Sadd SC,"Doha, Qatar",1996-04-10,26-224,0.0,,
+10,3.0,Abdelkarim Hassan,DF,1.qa Al Sadd SC,"Doha, Qatar",1993-08-28,29-084,3.0,270.0,0.0
+11,21.0,Yousef Hassan,GK,1.qa Al-Gharafa Sports Club,"Doha, Qatar",1996-05-24,26-180,0.0,,
+12,6.0,Abdulaziz Hatem,MF,1.qa Al Rayyan SC,"Doha, Qatar",1990-10-28,32-023,3.0,196.0,0.0
+13,10.0,Hassan Al-Haydos,MF,1.qa Al Sadd SC,"Doha, Qatar",1990-12-11,31-344,3.0,206.0,0.0
+14,13.0,Musab Kheder,DF,1.qa Al Sadd SC,"Khartoum, Sudan",1993-09-26,29-055,1.0,6.0,0.0
+15,16.0,Boualem Khoukhi,DF,1.qa Al Sadd SC,"Bou Ismaïl, Algeria",1990-07-09,32-134,3.0,270.0,0.0
+16,23.0,Assim Madibo,MF,1.qa Al Duhail SC,"Doha, Qatar",1996-10-22,26-029,2.0,153.0,0.0
+17,26.0,Mostafa Meshaal,MF,1.qa Al Sadd SC,"Doha, Qatar",2001-03-28,21-237,0.0,,
+18,17.0,Ismail Mohamad,FW,1.qa Al Duhail SC,"Doha, Qatar",1990-04-05,32-229,2.0,174.0,0.0
+19,18.0,Khalid Muneer,FW,1.qa Al-Wakrah Sport Club,"Doha, Qatar",1998-02-24,24-269,0.0,,
+20,9.0,Mohammed Muntari,"FW,MF",1.qa Al Duhail SC,"Kumasi, Ghana",1993-12-20,28-335,3.0,63.0,1.0
+21,15.0,Bassam Al-Rawi,DF,1.qa Al Duhail SC,"Baghdad, Iraq",1997-12-16,24-339,1.0,90.0,0.0
+22,2.0,Ró-Ró,DF,1.qa Al Sadd SC,"Algueirão-Mem Martins, Portugal",1990-08-06,32-106,3.0,262.0,0.0
+23,5.0,Tarek Salman,DF,1.qa Al Sadd SC,"Al Wakrah, Qatar",1997-12-05,24-350,1.0,8.0,0.0
+24,1.0,Saad Al Sheeb,GK,1.qa Al Sadd SC,"Doha, Qatar",1990-02-19,32-274,1.0,90.0,0.0
+25,4.0,Mohammed Waad,"MF,DF",1.qa Al Sadd SC,"Baghdad, Iraq",1999-09-18,23-063,2.0,28.0,0.0
